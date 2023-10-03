@@ -1,0 +1,1 @@
+Just reverse the string and find the [[Longest Common Subsequence]] between the new and original strings
