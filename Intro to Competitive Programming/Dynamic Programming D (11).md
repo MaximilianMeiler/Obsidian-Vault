@@ -17,6 +17,8 @@ Interval dp
 - Optimal value of each interval is obtained by optimizing values between all sub-segments
 	- `dp[i, j] = optimize(dp[i, k] + dp[k+1, j] + w[i,j])`
 - [['Palindrome Removal' aka 'Zuma']]
-- I
 
 [['Valid Palindrome III']]
+
+
+Next lecture: [[Dynamic Programming E (12)]]

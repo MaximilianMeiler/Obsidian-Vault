@@ -51,7 +51,7 @@ Spanning Tree
 - Kruskal
 	- Sort by edge weight, connect if needed and skip if already in graph (loop)
 		- Check if already in graph by giving connected nodes a "grandparent root"
-	- [[`Arctic Network`]]
+	- [['Arctic Network']]
 
 
 Next lecture: [[Dynamic Programming A (8)]]

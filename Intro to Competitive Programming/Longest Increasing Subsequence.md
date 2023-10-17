@@ -5,7 +5,7 @@ Brute force is extremely inefficient - 2^n possible increasing subsequences
 
 Breaking into subproblems
 - Either use prefix (`a[1:i]`) or suffix (`a[i:end]`)
-	- We will use prefixes
+		- We will use prefixes
 - Let d(i) denote the length of the LIS for a\[1:i] (ending with a\[i])
 	- If a new a\[i] > a\[j], form a new increasing subsequence ending with a\[i]
 	- d\[i] is 1 + d\[j] where a\[j] < a\[i]
