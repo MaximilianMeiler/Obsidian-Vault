@@ -1,5 +1,5 @@
-Previous lecture: [[Balanced Trees (5)]]
-
+Previous lecture: [[Balanced Trees (4)]]
+Discussion: [[Heaps (D5)]]
 
 Priority queue
 - All elements have a priority, elements with highest/lowest priority are removed first
@@ -38,3 +38,24 @@ Binary heap
 		- Replace root with last element in the heap and swap down
 		- Smaller child is always swapped upwards
 	- log(n)
+- Heap sort
+	- Insert n items into heap
+	- Remove n items from heap, place in array
+	- O(nlogn)
+- Creation in-place: only takes O(n) time!
+
+K-largest elements
+- Find the K largest items
+- Idea: Insert everything into a max-heap and pop K out
+	- .
+- Idea: Keep k(+1) elements in a min heap, continuously pop the lowest one out
+		- Much more memory efficient
+
+Running median
+-  Keep two heaps - one for smaller elements and one for larger them
+	- Make one a min, one a max so middle-ish elements come to the top
+- If the number of elements in both trees are unbalanced, move the root of the larger one into the smaller tree
+- The median at any time is the average of both roots (equal n), or the root of the tree with 1 more element
+
+
+Next lecture: [[Sorting (6)]]

@@ -1,4 +1,4 @@
-Previous lecture: [[Lists, Stacks, Queues (3)]]
+Previous lecture: [[Lists, Stacks, Queues (2)]]
 
 A graph with...
 - One root
@@ -64,4 +64,4 @@ Using BSTs
 		- Manage memory during tree deletion
 	- Breadth-First
 
-Next lecture: [[Balanced Trees (5)]]
+Next lecture: [[Balanced Trees (4)]]

@@ -26,6 +26,7 @@ Huffman Code
 Greedy Algorithms on Graphs
 - Djiskstra's - shortest path
 	- Always take shortest edge
+	- [[Djikstra's]]
 - Kruskal's - min cost spanning tree
 	- Always tries lowest-cost remaining edge
 - Prim's - min cost spanning tree

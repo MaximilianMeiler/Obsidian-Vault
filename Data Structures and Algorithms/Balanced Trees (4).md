@@ -1,4 +1,4 @@
-Previous lecture: [[Trees (4)]]
+Previous lecture: [[Trees (3)]]
 
 \<First lecture missing>
 

@@ -1,4 +1,4 @@
-[[Lists, Stacks, Queues (3)]]
+[[Lists, Stacks, Queues (2)]]
 
 
 Using a debugger allows you to

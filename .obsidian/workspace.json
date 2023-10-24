@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Trees (4).md",
+                "file": "Data Structures and Algorithms/Trees (3).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,7 +27,150 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Competitive Programming/'Arctic Network'.md",
+                "file": "Intro to Competitive Programming/Midterm Review (14).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74522adff6bcf800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fcd42e3b82718e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe22ea69cb36f4d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Competitive Programming/Greedy B (7).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a6c4e00fb57f342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Competitive Programming/Greedy B (7).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c583471ef62aeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Competitive Programming/Midterm Review (14).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59a9aefc1b55449a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs A (15).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0fa263bf756d62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs A (15).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d9a1bfb8da2dc50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorting (6).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa8cd8edfbae7ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "'Connections'.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9d35e032d64ca42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Competitive Programming/Median of Two Sorted Arrays.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "479c4673a9c2bdf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Competitive Programming/Sorting and Searching A (4).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -35,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -48,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intro to Competitive Programming/'Arctic Network'.md",
+                "file": "Sorting (6).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,7 +243,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18900342075610424,
+                  "scale": 0.45049626570137524,
                   "close": true
                 }
               }
@@ -135,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "majority",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +303,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro to Competitive Programming/'Arctic Network'.md",
+                "file": "Sorting (6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro to Competitive Programming/'Arctic Network'.md",
+                "file": "Sorting (6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro to Competitive Programming/'Arctic Network'.md"
+                "file": "Sorting (6).md"
               }
             }
           },
@@ -252,21 +394,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ace9f3e19af20b7",
+  "active": "1d9a1bfb8da2dc50",
   "lastOpenFiles": [
-    "Intro to Competitive Programming/Word Break.md",
-    "Intro to Competitive Programming/Word Break II.md",
-    "Intro to Competitive Programming/'Wildcard Matching'.md",
-    "Intro to Competitive Programming/'Wedding Shopping'.md",
-    "Intro to Competitive Programming/'Valid Palindrome III'.md",
-    "Intro to Competitive Programming/'Tri Tiling'.md",
-    "Intro to Competitive Programming/'Table Tennis'.md",
-    "Intro to Competitive Programming/'Stripe'.md",
-    "Intro to Competitive Programming/'Stall Reservations'.md",
+    "Data Structures and Algorithms/Lists, Stacks, Queues (2).md",
+    "Intro to Competitive Programming/Dynamic Programming D (11).md",
+    "Intro to Competitive Programming/Dynamic Programming A (8).md",
+    "'Dominator'.md",
+    "Graphs A (15).md",
+    "'Connections'.md",
+    "'Maze'.md",
+    "Intro to Competitive Programming/Midterm Review (14).md",
+    "Intro to Competitive Programming/Dynamic Programming F (13).md",
+    "Intro to Competitive Programming/Longest Increasing Subsequence.md",
+    "Intro to Competitive Programming/Dynamic Programming B (9).md",
+    "Intro to Competitive Programming/Dynamic Programming C (10).md",
+    "Intro to Competitive Programming/Data Structures A (2).md",
+    "Intro to Competitive Programming/Efficiency (1).md",
+    "Djikstra's.md",
+    "Intro to Competitive Programming/Greedy B (7).md",
+    "Intro to Competitive Programming/`Radar Installation`.md",
+    "Intro to Competitive Programming/Greedy A (6).md",
+    "Intro to Competitive Programming/'Dragon of Loowater'.md",
+    "Intro to Competitive Programming/Median of Two Sorted Arrays.md",
     "Intro to Competitive Programming/Sorting and Searching B (5).md",
+    "Intro to Competitive Programming/Find First and Last Position of Element in Sorted Array.md",
+    "Intro to Competitive Programming/'a-Good String'.md",
     "Intro to Competitive Programming/Sorting and Searching A (4).md",
-    "Intro to Competitive Programming/'Presidential Elections'.md",
-    "Intro to Competitive Programming/Postfix Matching.md",
+    "Intro to Competitive Programming/Majority Element.md",
+    "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
+    "Pasted image 20231019152844.png",
+    "Data Structures and Algorithms/Pasted image 20230824154332.png",
     "Images/Pasted image 20231005153734.png",
     "Images/Pasted image 20231003141651.png",
     "Images/Pasted image 20231003141556.png",
@@ -275,23 +432,8 @@
     "Images/Pasted image 20230926142629.png",
     "Images/Pasted image 20230926142257.png",
     "Images/Pasted image 20230926141458.png",
-    "Images/Pasted image 20230926141442.png",
-    "Images/Pasted image 20230926141234.png",
     "Images",
     "New folder",
-    "Majority Element.md",
-    "Intro to Competitive Programming/Partition Equal Subset Sum.md",
-    "Intro to Competitive Programming/'Palindrome Removal' aka 'Zuma'.md",
-    "Intro to Competitive Programming/Nim Game.md",
-    "Intro to Competitive Programming/'Newspaper'.md",
-    "Intro to Competitive Programming/'Nested Dolls'.md",
-    "Intro to Competitive Programming/'Minimum Score Triangulation of Polygon'.md",
-    "Intro to Competitive Programming/Minimum Path Sum.md",
-    "Intro to Competitive Programming/'Minimum Cost to Cut a Stick'.md",
-    "Intro to Competitive Programming/Midterm Review (14).md",
-    "Intro to Competitive Programming/'Meeting Scheduling'.md",
-    "Intro to Competitive Programming/Median of Two Sorted Arrays.md",
-    "Intro to Competitive Programming/Maximum Sub-sequence Product.md",
     "Fast",
     "Intro to Competitive Programming",
     "Untitled.canvas",

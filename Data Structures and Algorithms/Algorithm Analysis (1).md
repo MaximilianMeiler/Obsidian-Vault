@@ -1,4 +1,4 @@
-Previous lecture: [[C++ review (1)]]
+Previous lecture: [[C++ review (0)]]
 
 
 Algorithm
@@ -58,4 +58,4 @@ Writing Pseudocode
 - Note abbreviations
 
 
-Next lecture: [[Lists, Stacks, Queues (3)]]
+Next lecture: [[Lists, Stacks, Queues (2)]]

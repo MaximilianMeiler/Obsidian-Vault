@@ -20,6 +20,8 @@ Development
 - Two pointer
 	- Converts a nested loop into a single loop
 	- Slow-runner, fast-runner
+- Sliding window
+	- 
 
 Examples
 - Dp
@@ -32,6 +34,7 @@ Examples
 	- [[Longest Common Subsequence]]
 	- Edit distance
 	- Path in a grid
+		- `dp[i, j] = max(dp[i,j-1], dp[i-1,j]) + val[i,j]`
 	- Knapsack 0-1 - [[Dynamic Programming C (10)]]
 	- Bounded/Unbounded Knapsack - [[Dynamic Programming D (11)]]
 	- [[Longest Palindromic Substring]]
@@ -46,5 +49,11 @@ Examples
 	- Fractional Knapsack
 - Two pointer
 	- Remove duplicates from sorted array
+	- [['Container with Most Water']]
+- Sliding window
 	- Subarray sum
-		- 
+		- Continuous chunk of elements must equal a sum - slide over the array!
+		- \*only works for positive elements
+	- [[Subarray Sum Equals K]]
+
+Next lecture: [[Graphs A (15)]]

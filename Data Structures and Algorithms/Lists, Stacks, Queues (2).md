@@ -1,4 +1,4 @@
-Previous lecture: [[Algorithm Analysis (2)]]
+Previous lecture: [[Algorithm Analysis (1)]]
 
 List types:
 - Array
@@ -124,4 +124,4 @@ Queues
 [[Fast/Slow pointers]]
 
 
-Next lecture: [[Trees (4)]]
+Next lecture: [[Trees (3)]]
