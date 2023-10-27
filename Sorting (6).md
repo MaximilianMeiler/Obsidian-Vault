@@ -32,3 +32,23 @@ Quick sort
 	- Choose a pivot
 	- Move everything less than that pivot to the left, everything greater on the right
 - Recursively call on each half on the sides of the pivot
+- Implementation example
+	- Make the first element the pivot
+	- Select the first element greater with an "up" index
+	- Select the last element less or equal with a "down" index
+	- If up is less than down, swap arr\[up] and arr\[down]
+		- Otherwise, swap arr\[piv] with arr\[down] and return arr\[down] (piv)
+		- Call recursively
+- Complexity
+	- Worst case - n^2
+	- Average case - nlogn
+
+Others
+- Sleep sort
+- Counting sort
+- Tim sort
+- Radix sort
+- Bucket sort
+
+
+Next lecture: [[Sets, Maps, and Hash Tables (7)]]

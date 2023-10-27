@@ -63,3 +63,17 @@ Graph modeling
 		- Complexity: O(v^2) for matrix, O(v + e) for list
 - [['Connections']]
 - [['Dominator']]
+- [['8-puzzle']]
+
+BFS vs DFS
+- BFS - shortest path always
+	- Storage can be very large due to queue used - (n-nary)^(height) used
+- DFS
+	- Stack never stores more than d\*p elements (p = longest path, d = highest out-degree)
+
+Connected components
+- [['Graph Connectivity']]
+- Flood filling disconnected rooms
+
+[[Water Jug Problem]]
+[[Maze Problem]]
