@@ -1,5 +1,5 @@
 Previous lecture: [[Sorting (6)]]
-
+Discussion: [[Sets, Maps, and Hash Tables (D9)]]
 
 Sets
 - Collection w no duplicate elements
@@ -77,3 +77,13 @@ Hash tables
 	- O(1) on average
 	- O(alpha) ~ O(n) in worst case (rehashes!)
 		- n ~= m because of max load factor, and alpha = n/m
+
+Computing collision amounts
+- Quarternary: 00-33
+	- Min: 0 - 3(3^1) + 3(3^0) = 0-12
+	- 13 total slots
+	- 4\*4 total numbers
+	- 3 collision
+
+
+Next lecture: [[Graphs (8)]]

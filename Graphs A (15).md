@@ -77,3 +77,6 @@ Connected components
 
 [[Water Jug Problem]]
 [[Maze Problem]]
+
+
+Next lecture: [[Graphs B (16)]]

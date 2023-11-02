@@ -31,4 +31,6 @@ We want to compare many strings efficiently by converting strings to ints
 		- runs in nlogk
 - Avoiding collisions - double hashes
 	- When comparing strings, check 2 hashes with different p/m's
-	- 
+
+
+Next lecture: [[PT - Computational Geometry]]
