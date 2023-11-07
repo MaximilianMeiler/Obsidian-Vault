@@ -34,3 +34,6 @@ Finding strongly connected components
 		- All nodes with the same low link val are strongly connected
 
 [['Airports']]
+
+
+Next lecture: [[Minimum Range Queries (18)]]

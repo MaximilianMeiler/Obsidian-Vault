@@ -490,7 +490,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs (8).md",
+                "file": "Graphs C (17).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51af2e288254e032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries (18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3633c1a910d462aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries (18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1dde59344de5fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries (18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e49bf9119266cc92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries (18).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -498,7 +550,7 @@
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 41
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -511,7 +563,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graphs (8).md",
+                "file": "Minimum Range Queries (18).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -643,7 +695,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs (8).md",
+                "file": "Minimum Range Queries (18).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -660,7 +712,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs (8).md",
+                "file": "Minimum Range Queries (18).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -683,7 +735,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs (8).md"
+                "file": "Minimum Range Queries (18).md"
               }
             }
           },
@@ -714,8 +766,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "598f964f9cba2afa",
+  "active": "e49bf9119266cc92",
   "lastOpenFiles": [
+    "'Range Sum Query 2D - Immutable'.md",
+    "Minimum Range Queries (18).md",
+    "'Subarray Sums Divisible by K'.md",
+    "Heaps (D5).md",
+    "'Find All Good Indices'.md",
+    "Graphs C (17).md",
+    "Graphs B (16).md",
+    "Graphs A (15).md",
+    "Djikstra's.md",
+    "Graphs (8).md",
     "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
     "Data Structures and Algorithms/Lists, Stacks, Queues (2).md",
     "Data Structures and Algorithms/C++ review (0).md",
@@ -723,26 +785,16 @@
     "Data Structures and Algorithms/Balanced Trees (D5).md",
     "Data Structures and Algorithms/Pasted image 20230824154332.png",
     "Water Jug Problem.md",
-    "Graphs A (15).md",
-    "Graphs B (16).md",
-    "Graphs C (17).md",
     "Intro to Competitive Programming/Midterm Review (14).md",
     "Intro to Competitive Programming/'Presidential Elections'.md",
     "Sets, Maps, and Hash Tables (D9).md",
     "Sets, Maps, and Hash Tables (7).md",
-    "Graphs (8).md",
     "Intro to Competitive Programming/Greedy B (7).md",
     "'Airports'.md",
     "'Not Escaping'.md",
     "TSP.md",
     "'ACM Computer Factory'.md",
     "Intro to Competitive Programming/Dynamic Programming F (13).md",
-    "Intro to Competitive Programming/Dynamic Programming E (12).md",
-    "Intro to Competitive Programming/'Burst Balloons'.md",
-    "Data Structures and Algorithms/Balanced Trees (4).md",
-    "'Course Schedule'.md",
-    "'Container with Most Water'.md",
-    "PT - Computational Geometry.md",
     "Pasted image 20231026190156.png",
     "quicklatex.png",
     "Excalidraw",
