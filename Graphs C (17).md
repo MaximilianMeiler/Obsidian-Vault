@@ -36,4 +36,4 @@ Finding strongly connected components
 [['Airports']]
 
 
-Next lecture: [[Minimum Range Queries (18)]]
+Next lecture: [[Minimum Range Queries A (18)]]

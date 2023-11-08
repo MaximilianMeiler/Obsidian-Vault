@@ -503,7 +503,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimum Range Queries (18).md",
+                "file": "Minimum Range Queries A (18).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -516,7 +516,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimum Range Queries (18).md",
+                "file": "Minimum Range Queries A (18).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -529,7 +529,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimum Range Queries (18).md",
+                "file": "Minimum Range Queries A (18).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -542,7 +542,85 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimum Range Queries (18).md",
+                "file": "PT - Computational Geometry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2581a887765e717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT - Fenwick Trees.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30dd31761bad4cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries A (18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9e485e1b044e307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries A (18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67d0499eb1091e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries A (18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c793f51596d7610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs (8).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5fa923d7a5e995b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs (D10).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -550,7 +628,7 @@
             }
           }
         ],
-        "currentTab": 41
+        "currentTab": 47
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -563,7 +641,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minimum Range Queries (18).md",
+                "file": "Graphs (D10).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -615,7 +693,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.48069809595196134,
+                  "scale": 0.40631549057244715,
                   "close": true
                 }
               }
@@ -695,7 +773,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minimum Range Queries (18).md",
+                "file": "Graphs (D10).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -712,7 +790,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minimum Range Queries (18).md",
+                "file": "Graphs (D10).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -735,7 +813,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minimum Range Queries (18).md"
+                "file": "Graphs (D10).md"
               }
             }
           },
@@ -766,35 +844,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e49bf9119266cc92",
+  "active": "e5fa923d7a5e995b",
   "lastOpenFiles": [
+    "Sets, Maps, and Hash Tables (D9).md",
+    "Graphs (8).md",
+    "Graphs (D10).md",
+    "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
+    "Data Structures and Algorithms/Debugging.md",
+    "Minimum Range Queries B (19).md",
+    "Minimum Range Queries A (18).md",
+    "slide8-l-3504734009.jpg",
+    "Graphs C (17).md",
+    "Graphs B (16).md",
+    "Intro to Competitive Programming/'Last Stone Weight II'.md",
+    "PT - Tries.md",
+    "PT - Fenwick Trees.md",
+    "PT - Computational Geometry.md",
+    "PT - String Hashing.md",
+    "Sets, Maps, and Hash Tables (7).md",
+    "Sorting (6).md",
+    "Data Structures and Algorithms/Balanced Trees (4).md",
     "'Range Sum Query 2D - Immutable'.md",
-    "Minimum Range Queries (18).md",
     "'Subarray Sums Divisible by K'.md",
     "Heaps (D5).md",
     "'Find All Good Indices'.md",
-    "Graphs C (17).md",
-    "Graphs B (16).md",
     "Graphs A (15).md",
     "Djikstra's.md",
-    "Graphs (8).md",
-    "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
     "Data Structures and Algorithms/Lists, Stacks, Queues (2).md",
     "Data Structures and Algorithms/C++ review (0).md",
     "'Maze'.md",
-    "Data Structures and Algorithms/Balanced Trees (D5).md",
     "Data Structures and Algorithms/Pasted image 20230824154332.png",
-    "Water Jug Problem.md",
-    "Intro to Competitive Programming/Midterm Review (14).md",
-    "Intro to Competitive Programming/'Presidential Elections'.md",
-    "Sets, Maps, and Hash Tables (D9).md",
-    "Sets, Maps, and Hash Tables (7).md",
-    "Intro to Competitive Programming/Greedy B (7).md",
-    "'Airports'.md",
-    "'Not Escaping'.md",
-    "TSP.md",
-    "'ACM Computer Factory'.md",
-    "Intro to Competitive Programming/Dynamic Programming F (13).md",
     "Pasted image 20231026190156.png",
     "quicklatex.png",
     "Excalidraw",
@@ -804,7 +883,6 @@
     "Images/Pasted image 20231003141556.png",
     "Images/Pasted image 20230926142806.png",
     "Images/Pasted image 20230926142803.png",
-    "Images/Pasted image 20230926142629.png",
     "Images",
     "New folder",
     "Fast",

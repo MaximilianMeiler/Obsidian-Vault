@@ -36,3 +36,5 @@ Range minimum queries
 				- k = floor(log(j - i + 1))
 			- Take min of precomputed 4-vals from i=2 and i=4 (7 - 4 + 1)
 				- O(1) time!
+
+Next lecture: [[Minimum Range Queries B (19)]]

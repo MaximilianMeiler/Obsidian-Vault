@@ -1,4 +1,5 @@
 Previous lecture: [[Sets, Maps, and Hash Tables (7)]]
+Discussion: [[Graphs (D10)]]
 
 
 Graphs 
@@ -22,4 +23,15 @@ Graphs
 		- Sparse: E ~= V
 
 \[Lecture skipped - I was playing 5d chess]
+\[More other stuff skipped]
 
+Shortest weighted s-t path
+- Dijkstra's algorithm
+	- Single-source to all vertices, no negative weights
+	- Algorithm
+		- 
+- Bellman-Ford
+	- Single-source to all vertices, negative weights allowed but no negative cycles
+- Floyd-Warshall
+	- All-pairs shortest paths
+- A* search

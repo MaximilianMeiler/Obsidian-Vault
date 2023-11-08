@@ -32,3 +32,6 @@ Polygons
 			- Keep adding 1 point at a time
 			- If, at any point, the last 3 points form a cw angle (turns right), remove the last two points from the hull (point n-2 is not in the hull, retry n-1)
 			- Done when you get back where you started
+
+
+Next lecture: [[PT - Fenwick Trees]]
