@@ -620,7 +620,150 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs (D10).md",
+                "file": "PT - Tries.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fe0ac81b4d0a8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT - Tries.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "373785f68554baaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum Range Queries B (19).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeee4c65708c2157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees A (20).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61e91295342df892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees A (20).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "430251fa92e3dcd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs (8).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07394ed13eb4a244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT - Segment Trees.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d73b7967970c0ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees A (20).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "460bfb4d41d47007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees B (21).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "655b0893f23fa052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs (8).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc9081de791109b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT - Aho-Corasick.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f796c4b65e803ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT - Fast Fourier Transform.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -628,7 +771,7 @@
             }
           }
         ],
-        "currentTab": 47
+        "currentTab": 58
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -641,7 +784,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Graphs (D10).md",
+                "file": "PT - Fast Fourier Transform.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -693,7 +836,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.40631549057244715,
+                  "scale": 0.3480115232920246,
                   "close": true
                 }
               }
@@ -728,8 +871,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "PT",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -753,7 +896,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -773,7 +917,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs (D10).md",
+                "file": "PT - Fast Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -790,7 +934,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs (D10).md",
+                "file": "PT - Fast Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -813,7 +957,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs (D10).md"
+                "file": "PT - Fast Fourier Transform.md"
               }
             }
           },
@@ -844,45 +988,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5fa923d7a5e995b",
+  "active": "f796c4b65e803ed2",
   "lastOpenFiles": [
-    "Sets, Maps, and Hash Tables (D9).md",
+    "PT - Aho-Corasick.md",
+    "PT - Fast Fourier Transform.md",
+    "PT - Segment Trees.md",
+    "PT - Computational Geometry.md",
+    "Algorithm Paradigms (9).md",
     "Graphs (8).md",
-    "Graphs (D10).md",
     "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
-    "Data Structures and Algorithms/Debugging.md",
+    "Intro to Competitive Programming/'Meeting Scheduling'.md",
+    "Intro to Competitive Programming/Word Break.md",
+    "Intro to Competitive Programming/Word Break II.md",
+    "Intro to Competitive Programming/Dynamic Programming A (8).md",
+    "Graph Algorithms (D11).md",
+    "Pasted image 20231115141723.png",
+    "Graphs (D10).md",
+    "'Patrol'.md",
+    "Trees B (21).md",
+    "Trees A (20).md",
     "Minimum Range Queries B (19).md",
     "Minimum Range Queries A (18).md",
-    "slide8-l-3504734009.jpg",
-    "Graphs C (17).md",
-    "Graphs B (16).md",
-    "Intro to Competitive Programming/'Last Stone Weight II'.md",
-    "PT - Tries.md",
-    "PT - Fenwick Trees.md",
-    "PT - Computational Geometry.md",
-    "PT - String Hashing.md",
-    "Sets, Maps, and Hash Tables (7).md",
-    "Sorting (6).md",
-    "Data Structures and Algorithms/Balanced Trees (4).md",
-    "'Range Sum Query 2D - Immutable'.md",
-    "'Subarray Sums Divisible by K'.md",
-    "Heaps (D5).md",
-    "'Find All Good Indices'.md",
-    "Graphs A (15).md",
-    "Djikstra's.md",
-    "Data Structures and Algorithms/Lists, Stacks, Queues (2).md",
-    "Data Structures and Algorithms/C++ review (0).md",
-    "'Maze'.md",
-    "Data Structures and Algorithms/Pasted image 20230824154332.png",
+    "Maze Problem.md",
     "Pasted image 20231026190156.png",
+    "PT - KMP.md",
+    "'Find All Good Indices'.md",
+    "PT - Tries.md",
+    "Water Jug Problem.md",
+    "Sorting (6).md",
+    "Intro to Competitive Programming/'Wildcard Matching'.md",
+    "Intro to Competitive Programming/`Add all`.md",
+    "Pasted image 20231110102532.png",
+    "segment-tree1-1391694816.png",
+    "slide8-l-3504734009.jpg",
+    "Data Structures and Algorithms/Pasted image 20230824154332.png",
     "quicklatex.png",
     "Excalidraw",
     "Pasted image 20231019152844.png",
     "Images/Pasted image 20231005153734.png",
     "Images/Pasted image 20231003141651.png",
-    "Images/Pasted image 20231003141556.png",
-    "Images/Pasted image 20230926142806.png",
-    "Images/Pasted image 20230926142803.png",
     "Images",
     "New folder",
     "Fast",

@@ -22,3 +22,6 @@ Maximum XOR
 		- Is possible? push back a 1
 		- If not, push back a 1
 		- The max of all these values is your max XOR
+
+
+Next lecture: [[PT - Segment Trees]]

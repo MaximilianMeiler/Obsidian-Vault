@@ -48,10 +48,12 @@ Cartesian Tree
 					- tour/level relation: Increasing, +1 / Decreasing, -1
 				- You can also take the first appearance (i) of each number in the tour
 					- LCS of U and V -> the RMQ between firstApp\[U], firstApp\[V]
-					- Thus, LCS uses this time ->> >O(1) query, O(nlogn) preprocess (sparse table)
+					- Thus, LCS uses this time -> O(1) query, O(nlogn) preprocess (sparse table)
 						- Hybridization
 
 Hybrid strategies for RMQs
 - Remember the block based approach?
 	- If we have high input size, we can recursively block our blocks!
-	- 
+
+
+Next lecture - [[Trees A (20)]]

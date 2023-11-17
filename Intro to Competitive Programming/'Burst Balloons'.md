@@ -6,3 +6,6 @@ https://leetcode.com/problems/burst-balloons/
 		- Solve last pop first, assume all other balloons besides edges/k have been popped
 	- dp\[i, j] denotes solution on open region i,j
 		- `d[i,j] = max(d[i,k] + d[k,j] + v[i]*v[k]*v[j]`
+
+
+![[Pasted image 20231110102532.png]]
