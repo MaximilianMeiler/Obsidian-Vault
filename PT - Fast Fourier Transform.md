@@ -17,7 +17,7 @@ FFT allows for fast polynomial multiplication
 - Transformation between forms
 	- Discrete Fourier Transform
 		- Use the coefficients to generate many samples
-		- [PASTE TABLE HERE]
+		- ![[Pasted image 20231117103004.png]]
 		- Usually O(n^2) :(
 			- Choose roots of unity for your x to reduce this
 			- e^(i\*2pik/n) (i : 0->n-1)

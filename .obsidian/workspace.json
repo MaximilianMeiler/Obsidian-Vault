@@ -763,15 +763,140 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PT - Fast Fourier Transform.md",
+                "file": "Trees B (21).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "4396dcc434402ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc A (22).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc1c4873c350ba79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc A (22).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4996639db877c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc A (22).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5f02fb5b2fcb0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc A (22).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7402869efc18d178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc A (22).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cd66df131f05f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc A (22).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a79d3e0ccbcc92b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings A (23).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cb3e8d81f87103d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings A (23).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f3e7ee7b6879d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings A (23).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf8b58ef8e93838e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 58
+        "currentTab": 67
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -784,7 +909,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PT - Fast Fourier Transform.md",
+                "file": "Strings A (23).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -871,7 +996,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PT",
+                "query": "efficienc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -917,7 +1042,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PT - Fast Fourier Transform.md",
+                "file": "Strings A (23).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -934,7 +1059,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PT - Fast Fourier Transform.md",
+                "file": "Strings A (23).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -957,7 +1082,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PT - Fast Fourier Transform.md"
+                "file": "Strings A (23).md"
               }
             }
           },
@@ -988,45 +1113,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f796c4b65e803ed2",
+  "active": "1f3e7ee7b6879d35",
   "lastOpenFiles": [
-    "PT - Aho-Corasick.md",
-    "PT - Fast Fourier Transform.md",
-    "PT - Segment Trees.md",
-    "PT - Computational Geometry.md",
-    "Algorithm Paradigms (9).md",
-    "Graphs (8).md",
-    "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
-    "Intro to Competitive Programming/'Meeting Scheduling'.md",
-    "Intro to Competitive Programming/Word Break.md",
-    "Intro to Competitive Programming/Word Break II.md",
-    "Intro to Competitive Programming/Dynamic Programming A (8).md",
-    "Graph Algorithms (D11).md",
-    "Pasted image 20231115141723.png",
-    "Graphs (D10).md",
-    "'Patrol'.md",
+    "'Periodic Strings'.md",
+    "Strings A (23).md",
+    "'Shortest Palindrome'.md",
+    "Misc A (22).md",
     "Trees B (21).md",
     "Trees A (20).md",
     "Minimum Range Queries B (19).md",
     "Minimum Range Queries A (18).md",
-    "Maze Problem.md",
-    "Pasted image 20231026190156.png",
-    "PT - KMP.md",
+    "Graphs C (17).md",
+    "Graphs B (16).md",
+    "Graphs A (15).md",
+    "Intro to Competitive Programming/Midterm Review (14).md",
+    "Intro to Competitive Programming/Efficiency (1).md",
+    "'Maximum Students Taking Exam'.md",
+    "'Graph without Long Directed Paths'.md",
+    "'Bipartite Test'.md",
+    "'Satisfiability of Equality Equations'.md",
+    "'Peaceful Commission'.md",
+    "Pasted image 20231120092649.png",
+    "'Subarray Sums Divisible by K'.md",
     "'Find All Good Indices'.md",
-    "PT - Tries.md",
-    "Water Jug Problem.md",
-    "Sorting (6).md",
-    "Intro to Competitive Programming/'Wildcard Matching'.md",
-    "Intro to Competitive Programming/`Add all`.md",
+    "'Range Sum Query 2D - Immutable'.md",
+    "'Range Sum Query - Mutable'.md",
+    "Intro to Competitive Programming/Longest ZigZag Path in a Binary Tree.md",
+    "Intro to Competitive Programming/Infix to Postfix Conversion using Stacks.md",
+    "PT - Fast Fourier Transform.md",
+    "Pasted image 20231117103004.png",
+    "Pasted image 20231117102950.png",
+    "PT - Aho-Corasick.md",
+    "Pasted image 20231115141723.png",
+    "Pasted image 20231026190156.png",
     "Pasted image 20231110102532.png",
     "segment-tree1-1391694816.png",
     "slide8-l-3504734009.jpg",
     "Data Structures and Algorithms/Pasted image 20230824154332.png",
     "quicklatex.png",
     "Excalidraw",
-    "Pasted image 20231019152844.png",
-    "Images/Pasted image 20231005153734.png",
-    "Images/Pasted image 20231003141651.png",
     "Images",
     "New folder",
     "Fast",

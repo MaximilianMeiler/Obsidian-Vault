@@ -44,3 +44,6 @@ Tree diameter
 - Then, run BFS at u to find the furthest node v from that
 - dist(u, v) is our diameter
 - [['Patrol']]
+
+
+Next lecture: [[Misc A (22)]]
