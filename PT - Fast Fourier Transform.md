@@ -31,3 +31,6 @@ FFT allows for fast polynomial multiplication
 			- O(nlogn) achieved!
 		- Inverse of the table is equal to the transpose (nothing) and complex conjugate
 			- Multiplying by the inverse allows us to recover our coefficients!
+
+
+Next lecture: [[PT - Toposort]]
