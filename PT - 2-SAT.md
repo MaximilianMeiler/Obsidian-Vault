@@ -16,3 +16,6 @@ Algorithm
 - If x is reachable from ~x and ~x is reachable from x, the equation is a contradiction
 - Check for SCCs
 	- If any contains a variable and itself, the formula is unsatisfiable
+
+
+Next lecture: [[PT - Max Flow]]

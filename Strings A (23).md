@@ -26,6 +26,12 @@ String matching (string length n, target length m)
 		- The mismatched letter "walls off" comparisons between relative string halves
 	- Bad character rule
 		- Use skip table - if a mismatch is found, just shift to accommodate mismatch from an earlier target string character
-		- Store the rightmost occurrence of every character in the target string
+			- Store all the rightmost index of each element
+				- If the rightmost char shifts the target "to the left" (is to the right of the currently compared val), instead just increase i by 1
+				- If there is no occurrence of that element in the target, just skip around it 
+		- Generally N / M, worst case MN
 	- Good suffix rule
 	- Longer skips by working backwards?
+
+
+Next lecture: [[Strings B (24)]]
