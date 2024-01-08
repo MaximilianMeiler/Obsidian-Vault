@@ -19,7 +19,7 @@ Maximum XOR
 - Insert the binary representations into a trie
 	- Loop through every b in A
 	- for every bit in a, take the xor if possible
-		- Is possible? push back a 1
+		- Is possible? push back a 0
 		- If not, push back a 1
 		- The max of all these values is your max XOR
 

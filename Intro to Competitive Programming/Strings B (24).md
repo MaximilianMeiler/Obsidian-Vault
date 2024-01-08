@@ -43,7 +43,7 @@ Tries!
 		 - Concat both strings: (ex. first$second#)
 		 - Run LRS algorithm, but both neighbors have to be "owned" by different strings
 			 - This can be checked by seeing if one index is past n, one index is before n
-		 - O(n + m)
+			 - O(n + m)
 
 
 Next lecture: [[Misc B (25)]]

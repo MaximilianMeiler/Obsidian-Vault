@@ -100,64 +100,12 @@
             }
           },
           {
-            "id": "59a9aefc1b55449a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs A (15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0fa263bf756d62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs A (15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d9a1bfb8da2dc50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting (6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e0509e782045da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets, Maps, and Hash Tables (7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8cd8edfbae7ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "'Connections'.md",
+                "file": "Data Structures and Algorithms/Sorting (6).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -178,19 +126,6 @@
             }
           },
           {
-            "id": "479c4673a9c2bdf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets, Maps, and Hash Tables (7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "937e29585181b709",
             "type": "leaf",
             "state": {
@@ -199,870 +134,12 @@
             }
           },
           {
-            "id": "92070fcee8e9dc78",
+            "id": "70a324f163ccaf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs A (15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c07a00988b23d9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs A (15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ef3684b2276588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maze Problem.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e82c61e276d72f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maze Problem.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02fe7530d4d3a60b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets, Maps, and Hash Tables (7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c4eb5ff08e5f152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Combinatorics under Mod.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d89a300e4c6059c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - KMP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21ad3c1f6258e619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs A (15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "155d9a5fc5365cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs A (15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60fa8c9e5ab7a0cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs B (16).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "971f502003b64f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs B (16).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7982154eebf2229d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs B (16).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f155068416af074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "087ff549e63a4139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets, Maps, and Hash Tables (7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a35430ac588178d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - String Hashing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ef9d79e7396ddd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae213c9e456409f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcea310d589b1303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "896abc1cd25e5fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df2add96d79d9600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9087a105ddea7991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets, Maps, and Hash Tables (7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f90011ec4e2dfe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27a0aa41402206b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs C (17).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51af2e288254e032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Range Queries A (18).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3633c1a910d462aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Range Queries A (18).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1dde59344de5fde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Range Queries A (18).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e49bf9119266cc92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Computational Geometry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2581a887765e717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Fenwick Trees.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30dd31761bad4cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Range Queries A (18).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9e485e1b044e307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Range Queries A (18).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d0499eb1091e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Range Queries A (18).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c793f51596d7610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs (8).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5fa923d7a5e995b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Tries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fe0ac81b4d0a8a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Tries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "373785f68554baaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Range Queries B (19).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeee4c65708c2157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trees A (20).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61e91295342df892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trees A (20).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "430251fa92e3dcd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs (8).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07394ed13eb4a244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Segment Trees.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d73b7967970c0ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trees A (20).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "460bfb4d41d47007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trees B (21).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "655b0893f23fa052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graphs (8).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc9081de791109b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Aho-Corasick.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f796c4b65e803ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trees B (21).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4396dcc434402ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc A (22).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1c4873c350ba79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc A (22).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4996639db877c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc A (22).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e5f02fb5b2fcb0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc A (22).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7402869efc18d178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc A (22).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd66df131f05f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc A (22).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a79d3e0ccbcc92b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings A (23).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cb3e8d81f87103d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings A (23).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f3e7ee7b6879d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Fast Fourier Transform.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "589727297c2fbd6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Toposort.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "558acb4fe02fd1ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Strongly Connected Components.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "446a6ad78a3ac8a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Strongly Connected Components.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "669c08136fd5f469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings A (23).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fe906380492aae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - 2-SAT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b636452dd5ca4fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Max Flow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70abeb1f927248ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strings B (24).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd4d2040de0999e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc B (25).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dcc533fdb7ff56c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc B (25).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaa5271829a1d6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc B (25).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dbe8ae0dae3f8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc B (25).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31671ead81c05f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PT - Bipartite Graphs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29e4f2ac7d58033f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc B (25).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2355f8b657dc16eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Final Review (26).md",
+                "file": "Data Structures and Algorithms/Sorting (6).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1070,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 81
+        "currentTab": 10
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -1083,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Final Review (26).md",
+                "file": "Data Structures and Algorithms/Sorting (6).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1135,7 +212,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.253311829498181,
+                  "scale": 0.24373789866936893,
                   "close": true
                 }
               }
@@ -1215,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final Review (26).md",
+                "file": "Data Structures and Algorithms/Sorting (6).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1232,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final Review (26).md",
+                "file": "Data Structures and Algorithms/Sorting (6).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1255,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final Review (26).md"
+                "file": "Data Structures and Algorithms/Sorting (6).md"
               }
             }
           },
@@ -1265,7 +342,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -1286,47 +365,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "598f964f9cba2afa",
+  "active": "d8800e7a5925b761",
   "lastOpenFiles": [
-    "Strings B (24).md",
-    "Final Review (26).md",
-    "Misc B (25).md",
-    "PT - Travelling Salesman.md",
-    "PT - Bipartite Graphs.md",
-    "PT - Strongly Connected Components.md",
-    "PT - Aho-Corasick.md",
-    "PT - Segment Trees.md",
-    "PT - Computational Geometry.md",
-    "PT - Tries.md",
-    "'Container with Most Water'.md",
-    "'My Calendar III'.md",
-    "'My Calendar II'.md",
-    "'Teemo Attacking'.md",
-    "'My Calendar'.md",
-    "Strings A (23).md",
-    "Trees B (21).md",
-    "Trees A (20).md",
-    "Misc A (22).md",
-    "PT - Max Flow.md",
-    "PT - 2-SAT.md",
-    "PT - Toposort.md",
-    "PT - String Hashing.md",
-    "Graphs C (17).md",
-    "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
-    "quicklatex.png",
-    "PT - Fast Fourier Transform.md",
-    "Pasted image 20231120092649.png",
-    "Pasted image 20231117103004.png",
-    "Pasted image 20231117102950.png",
-    "Pasted image 20231115141723.png",
-    "Pasted image 20231026190156.png",
-    "Pasted image 20231110102532.png",
+    "Intro to Competitive Programming/slide8-l-3504734009.jpg",
+    "Programming Team/quicklatex.png",
+    "Intro to Competitive Programming/Pasted image 20231120092649.png",
+    "Programming Team/Pasted image 20231117103004.png",
+    "Programming Team/Pasted image 20231117102950.png",
+    "Data Structures and Algorithms/Pasted image 20231115141723.png",
+    "Intro to Competitive Programming/Pasted image 20231110102532.png",
+    "Programming Team/Pasted image 20231026190156.png",
+    "Data Structures and Algorithms/Pasted image 20231019152844.png",
+    "Intro to Competitive Programming/'Shortest Palindrome'.md",
+    "Intro to Competitive Programming/Djikstra's.md",
+    "Subarray Sum Equals K.md",
+    "Intro to Competitive Programming/Subarray Sum Equals K.md",
+    "Intro to Competitive Programming/Water Jug Problem.md",
+    "Intro to Competitive Programming/TSP.md",
+    "Intro to Competitive Programming/Trees B (21).md",
+    "Intro to Competitive Programming/Trees A (20).md",
+    "Intro to Competitive Programming/'Teemo Attacking'.md",
+    "Intro to Competitive Programming/'Subarray Sums Divisible by K'.md",
+    "Intro to Competitive Programming/Strings B (24).md",
+    "Intro to Competitive Programming/Strings A (23).md",
+    "Data Structures and Algorithms/Sets, Maps, and Hash Tables (7).md",
+    "Data Structures and Algorithms/Sets, Maps, and Hash Tables (D9).md",
+    "Intro to Competitive Programming/'Satisfiability of Equality Equations'.md",
+    "Intro to Competitive Programming/'Range Sum Query 2D - Immutable'.md",
+    "Intro to Competitive Programming/'Range Sum Query - Mutable'.md",
+    "Intro to Competitive Programming/segment-tree1-1391694816.png",
+    "Intro to Competitive Programming/'Peaceful Commission'.md",
+    "Intro to Competitive Programming/'Patrol'.md",
+    "Intro to Competitive Programming/'Periodic Strings'.md",
+    "Maze Problem.md",
+    "Intro to Competitive Programming/Maze Problem.md",
+    "Intro to Competitive Programming/'Maze II'.md",
+    "Data Structures and Algorithms/Graph Algorithms (D11).md",
+    "Intro to Competitive Programming/'Maximum Students Taking Exam'.md",
+    "Programming Team",
+    "New folder",
     "segment-tree1-1391694816.png",
-    "slide8-l-3504734009.jpg",
-    "Data Structures and Algorithms/Pasted image 20230824154332.png",
     "Excalidraw",
     "Images",
-    "New folder",
     "Fast",
     "Intro to Competitive Programming",
     "Untitled.canvas",

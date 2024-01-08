@@ -31,7 +31,7 @@ Sum (1d problem)
 - [[Nim Game]]
 - [[`Predict the Winner`]]
 - [[Largest Sum Contiguous Subarray]]
-- [[Decode Ways]]
+- [['Decode Ways']]
 - [[Word Break]]
 
 
