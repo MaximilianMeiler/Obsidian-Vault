@@ -105,7 +105,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Sorting (6).md",
+                "file": "Algo/Summary of Topics (AAD-2).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2499319bf4086f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bits, Binary, Digital Logic (ORG-2).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b72ee2d8b4aedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Proofs Review (AAD-3).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd3ddba941e6951f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm Analysis (AAD-4).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +178,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Sorting (6).md",
+                "file": "Intro to SWE/Defining Software Engineering (SWE-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bcb4556aadd694c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to SWE/Defining Software Engineering (SWE-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f6a6bddbf7407f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Introduction (AAD-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d892e25c0261e45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Summary of Topics (AAD-2).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d940a18b43d3e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Proofs Review (AAD-3).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -160,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data Structures and Algorithms/Sorting (6).md",
+                "file": "Algorithm Analysis (AAD-4).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +303,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.24373789866936893,
+                  "scale": 0.3794443289015696,
                   "close": true
                 }
               }
@@ -292,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Sorting (6).md",
+                "file": "Algorithm Analysis (AAD-4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Sorting (6).md",
+                "file": "Algorithm Analysis (AAD-4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Sorting (6).md"
+                "file": "Algorithm Analysis (AAD-4).md"
               }
             }
           },
@@ -365,8 +456,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8800e7a5925b761",
+  "active": "dd3ddba941e6951f",
   "lastOpenFiles": [
+    "Algo/Proofs Review (AAD-3).md",
+    "Algorithm Analysis (AAD-4).md",
+    "Algo/Summary of Topics (AAD-2).md",
+    "Comp Org/Computer Performance (ORG-1).md",
+    "Instruction Set Architectures (ORG-3).md",
+    "Bits, Binary, Digital Logic (ORG-2).md",
+    "Pasted image 20240112174427.png",
+    "Pasted image 20240112174411.png",
+    "Software Engineering Ethics (SWE-2).md",
+    "Intro to SWE/Defining Software Engineering (SWE-1).md",
+    "Algo/Introduction (AAD-1).md",
+    "Data Structures and Algorithms/Sorting (6).md",
+    "Comp Org",
+    "Algo",
+    "Intro to SWE",
+    "New folder",
     "Intro to Competitive Programming/slide8-l-3504734009.jpg",
     "Programming Team/quicklatex.png",
     "Intro to Competitive Programming/Pasted image 20231120092649.png",
@@ -375,7 +482,6 @@
     "Data Structures and Algorithms/Pasted image 20231115141723.png",
     "Intro to Competitive Programming/Pasted image 20231110102532.png",
     "Programming Team/Pasted image 20231026190156.png",
-    "Data Structures and Algorithms/Pasted image 20231019152844.png",
     "Intro to Competitive Programming/'Shortest Palindrome'.md",
     "Intro to Competitive Programming/Djikstra's.md",
     "Subarray Sum Equals K.md",
@@ -392,19 +498,7 @@
     "Data Structures and Algorithms/Sets, Maps, and Hash Tables (D9).md",
     "Intro to Competitive Programming/'Satisfiability of Equality Equations'.md",
     "Intro to Competitive Programming/'Range Sum Query 2D - Immutable'.md",
-    "Intro to Competitive Programming/'Range Sum Query - Mutable'.md",
-    "Intro to Competitive Programming/segment-tree1-1391694816.png",
-    "Intro to Competitive Programming/'Peaceful Commission'.md",
-    "Intro to Competitive Programming/'Patrol'.md",
-    "Intro to Competitive Programming/'Periodic Strings'.md",
-    "Maze Problem.md",
-    "Intro to Competitive Programming/Maze Problem.md",
-    "Intro to Competitive Programming/'Maze II'.md",
-    "Data Structures and Algorithms/Graph Algorithms (D11).md",
-    "Intro to Competitive Programming/'Maximum Students Taking Exam'.md",
     "Programming Team",
-    "New folder",
-    "segment-tree1-1391694816.png",
     "Excalidraw",
     "Images",
     "Fast",
