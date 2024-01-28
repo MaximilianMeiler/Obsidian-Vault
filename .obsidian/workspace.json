@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
+                "file": "Algo/Graphs (AAD-6).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,9 +103,32 @@
             "id": "1d9a1bfb8da2dc50",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Algo/Pasted image 20240125120556.png"
+              }
+            }
+          },
+          {
+            "id": "0d4b5d454f7e3f45",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Summary of Topics (AAD-2).md",
+                "file": "Comp Org/ARM Programming (ORG-5).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7ee7faa1d3a640a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Algo HW 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bits, Binary, Digital Logic (ORG-2).md",
+                "file": "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +167,154 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm Analysis (AAD-4).md",
+                "file": "Intro to SWE/Software Engineering Ethics (SWE-2).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71b7e05ac66dce5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Computer Performance (ORG-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ca72e345f7c78d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1d1019aa198538f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Benchmarking (ORG-4).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07ee029baeffd343",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Comp Org/Pasted image 20240112174427.png"
+              }
+            }
+          },
+          {
+            "id": "9615875d700b6dca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Intro to SWE/Pasted image 20240117154634.png"
+              }
+            }
+          },
+          {
+            "id": "ddb689c2bf467ab3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Intro to SWE/Pasted image 20240117154634.png"
+              }
+            }
+          },
+          {
+            "id": "55a822bf3984ee8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Algorithm Analysis (AAD-4).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35a5fd22d954abf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to SWE/Software Activities and Process Models (SWE-3).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e11e62cdf37c208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Benchmarking (ORG-4).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba3795fa701d819a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/ARM Programming (ORG-5).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c0d77250fb7f3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Stable Matching (AAD-5).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dd7b05f0df16d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Graphs (AAD-6).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -238,7 +408,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -251,7 +421,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algorithm Analysis (AAD-4).md",
+                "file": "Algo/Algo HW 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -286,6 +456,13 @@
                       }
                     },
                     {
+                      "query": "file:(ORG-D)",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2134655
+                      }
+                    },
+                    {
                       "query": "path:/",
                       "color": {
                         "a": 1,
@@ -303,7 +480,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3794443289015696,
+                  "scale": 0.3716906781050301,
                   "close": true
                 }
               }
@@ -383,7 +560,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm Analysis (AAD-4).md",
+                "file": "Algo/Algo HW 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +577,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm Analysis (AAD-4).md",
+                "file": "Algo/Algo HW 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +600,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm Analysis (AAD-4).md"
+                "file": "Algo/Algo HW 1.md"
               }
             }
           },
@@ -456,48 +633,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd3ddba941e6951f",
+  "active": "d8800e7a5925b761",
   "lastOpenFiles": [
+    "Comp Org/Signed Integers (ORG-6).md",
+    "Algo/Algo HW 1.md",
+    "Algo/Graphs (AAD-6).md",
+    "Algo/Stable Matching (AAD-5).md",
+    "Algo/Algorithm Analysis (AAD-4).md",
     "Algo/Proofs Review (AAD-3).md",
-    "Algorithm Analysis (AAD-4).md",
     "Algo/Summary of Topics (AAD-2).md",
-    "Comp Org/Computer Performance (ORG-1).md",
-    "Instruction Set Architectures (ORG-3).md",
-    "Bits, Binary, Digital Logic (ORG-2).md",
-    "Pasted image 20240112174427.png",
-    "Pasted image 20240112174411.png",
-    "Software Engineering Ethics (SWE-2).md",
-    "Intro to SWE/Defining Software Engineering (SWE-1).md",
+    "Comp Org/ARM Programming (ORG-5).md",
+    "Comp Org/Instruction Set Architectures (ORG-3).md",
+    "Algo/Pasted image 20240125120556.png",
+    "Algo/Pasted image 20240125120552.png",
+    "Algo/Pasted image 20240125120502.png",
     "Algo/Introduction (AAD-1).md",
+    "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
+    "Comp Org/ORG-D2.md",
+    "Algo/Pasted image 20240125120057.png",
+    "Algo/Pasted image 20240125115555.png",
+    "Algo/Pasted image 20240118112558.png",
+    "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
+    "Comp Org/ORG-D1.md",
+    "Comp Org/Benchmarking (ORG-4).md",
+    "Comp Org/Pasted image 20240122214121.png",
+    "Comp Org/Pasted image 20240122214124.png",
+    "Intro to SWE/Free and Open-Source Software (SWE-4).md",
+    "Intro to SWE/Software Activities and Process Models (SWE-3).md",
+    "Intro to SWE/Software Engineering Ethics (SWE-2).md",
+    "Excalidraw/Drawing 2023-10-24 18.34.27.excalidraw.md",
+    "Comp Org/Pasted image 20240117173922.png",
+    "Comp Org/Pasted image 20240117173726.png",
+    "Comp Org/Computer Performance (ORG-1).md",
+    "Intro to SWE/Defining Software Engineering (SWE-1).md",
     "Data Structures and Algorithms/Sorting (6).md",
     "Comp Org",
     "Algo",
     "Intro to SWE",
     "New folder",
-    "Intro to Competitive Programming/slide8-l-3504734009.jpg",
-    "Programming Team/quicklatex.png",
-    "Intro to Competitive Programming/Pasted image 20231120092649.png",
-    "Programming Team/Pasted image 20231117103004.png",
-    "Programming Team/Pasted image 20231117102950.png",
-    "Data Structures and Algorithms/Pasted image 20231115141723.png",
-    "Intro to Competitive Programming/Pasted image 20231110102532.png",
-    "Programming Team/Pasted image 20231026190156.png",
     "Intro to Competitive Programming/'Shortest Palindrome'.md",
     "Intro to Competitive Programming/Djikstra's.md",
     "Subarray Sum Equals K.md",
     "Intro to Competitive Programming/Subarray Sum Equals K.md",
-    "Intro to Competitive Programming/Water Jug Problem.md",
-    "Intro to Competitive Programming/TSP.md",
-    "Intro to Competitive Programming/Trees B (21).md",
-    "Intro to Competitive Programming/Trees A (20).md",
-    "Intro to Competitive Programming/'Teemo Attacking'.md",
-    "Intro to Competitive Programming/'Subarray Sums Divisible by K'.md",
-    "Intro to Competitive Programming/Strings B (24).md",
-    "Intro to Competitive Programming/Strings A (23).md",
-    "Data Structures and Algorithms/Sets, Maps, and Hash Tables (7).md",
-    "Data Structures and Algorithms/Sets, Maps, and Hash Tables (D9).md",
-    "Intro to Competitive Programming/'Satisfiability of Equality Equations'.md",
-    "Intro to Competitive Programming/'Range Sum Query 2D - Immutable'.md",
     "Programming Team",
     "Excalidraw",
     "Images",
