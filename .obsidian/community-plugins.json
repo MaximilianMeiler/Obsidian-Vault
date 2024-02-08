@@ -1,4 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-pandoc"
 ]

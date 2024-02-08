@@ -1,5 +1,11 @@
-Previous lecture: [[Instruction Set Architectures (ORG-3)]]
+Previous lecture: [[Bits, Binary, Digital Logic (ORG-2)]]
 
+Parts of a computer (definitions):
+- Input: Writes data and instructions to memory
+- Datapath: Executes instructions
+- Control: Sends signals that determine the operations of datapath, memory, input, and output
+- Memory: Stores instruction and data
+- Output: Presents results to user
 
 What is an ISA?
 - Defines instruction formats (structure, instruction fields)

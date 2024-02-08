@@ -36,5 +36,26 @@ Bipartite graphs
 - **Lemma**: Let $G$ be a connected graph, and let layers be produced by a BFS from node $s$. Exactly ONE of the following holds:
 	- No edge of $G$ joins two nodes of the same layer ($G$ is bipartite)
 	- An edge of $G$ joins two nodes of the same layer, and $G$ contains an odd-length cycle
-	- **Proof**: When coloring the edges, the layers alternate colors
+	- **Proof** (by me lol): When coloring the edges, the layers alternate colors
 		- Edges can only reach across 1 layer or along the same layer (otherwise nodes would be in adjacent layers anyways)
+	- **Proof** (for first claim): 
+		- Suppose no edge joins two nodes in the same layer
+		- By BFS, each edge joins two nodes in adjacent levels
+		- white nodes: on odd levels, blue nodes: on even levels
+	- **Proof** (for second claim):
+		- Suppose $(x, y)$ is an edge between $x, y$ in the same level $L_j$
+		- Let $z = lca(x, y)$ be their lowest common ancestor
+		- Let $L_i$ be the level containing $z$
+		- The cycle between $z$, $x$, and $y$ is of length:
+			- $1 + (j-i) + (j - i) = 1 + 2(j - i) = odd + even$, which is odd!
+- **Corollary**: A graph is bipartite iff it contains no odd-length cycle
+	- **Proof** (bipartite -> no odd-length cycles): It is not possible to 2-color a graph with odd-length cycles
+	- **Proof** (no odd-length cycle ->  bipartite): Take the contrapositive of the second part of the previous lemma: 
+		- If G does not contain an odd length cycle, then no edge of $G$ joins two nodes of the same layer $\Rightarrow$ $G$ is bipartite by the first part of the lemma
+
+Directed graphs
+- Strong component: Maximal subset of mutually reachable nodes
+
+Directed acyclic graphs: \[Skipped]
+
+Next lecture: [[Greedy Algorithms (AAD-7)]]

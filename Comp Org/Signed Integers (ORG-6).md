@@ -18,3 +18,6 @@ Binary overflow
 	- Note that the first bit always represents the cardinality! (+/-)
 	- Cannot always add positives without overflowing (first bit may become 1!)
 		- Arm stores V (signed) and C (…) flags on the register to check for such inconsistencies (i.e. adding 2 positives becomes a negative)
+
+
+Next lecture: [[ARM Registers  (ORG-7)]]

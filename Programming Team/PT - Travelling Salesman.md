@@ -16,3 +16,6 @@ Bitmasking
 	- Size n\*2^n required
 	- Setting nodes to visited: `m = m | (1 << i)`
 	- Check if a node is visited: `(m >> i) & 1`
+
+
+Next lecture: [[PT - Heavy-Light Decomposition]]

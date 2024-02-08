@@ -128,7 +128,85 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Algo HW 1.md",
+                "file": "Comp Org/Signed Integers (ORG-6).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9560f6027c708a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Computer Performance (ORG-1).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6e2c52249df342c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831476c8058868f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Instruction Set Architectures (ORG-3).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "318f53b532a4e543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/ARM Registers  (ORG-7).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcc959cfc71b81da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Graphs (AAD-6).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2904ce34d8371637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Greedy Algorithms (AAD-7).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -406,9 +484,87 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6039f6fac6ff25fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/ARM Registers  (ORG-7).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d019bdf989c5b983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/ARM Decisions and Loops (ORG-8).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "234f399fc388c37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Team/PT - Travelling Salesman.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b058932ebaf39f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Team/PT - Heavy-Light Decomposition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54fe554d77f9db06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/ARM Procedures (ORG-9).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e53edeea8a0d67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Team/PT - Advanced Segment Trees.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 43
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -421,7 +577,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algo/Algo HW 1.md",
+                "file": "Programming Team/PT - Advanced Segment Trees.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -480,7 +636,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3716906781050301,
+                  "scale": 0.12293892549191478,
                   "close": true
                 }
               }
@@ -560,7 +716,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/Algo HW 1.md",
+                "file": "Programming Team/PT - Advanced Segment Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -577,7 +733,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/Algo HW 1.md",
+                "file": "Programming Team/PT - Advanced Segment Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -600,7 +756,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/Algo HW 1.md"
+                "file": "Programming Team/PT - Advanced Segment Trees.md"
               }
             }
           },
@@ -635,52 +791,51 @@
   },
   "active": "d8800e7a5925b761",
   "lastOpenFiles": [
-    "Comp Org/Signed Integers (ORG-6).md",
-    "Algo/Algo HW 1.md",
-    "Algo/Graphs (AAD-6).md",
-    "Algo/Stable Matching (AAD-5).md",
-    "Algo/Algorithm Analysis (AAD-4).md",
-    "Algo/Proofs Review (AAD-3).md",
-    "Algo/Summary of Topics (AAD-2).md",
+    "Comp Org/Pasted image 20240206151056.png",
+    "Programming Team/PT - Advanced Segment Trees.md",
+    "Comp Org/ARM Procedures (ORG-9).md",
+    "Comp Org/ARM Procedures - Stack Frames (ORG-10).md",
+    "Comp Org/ARM Decisions and Loops (ORG-8).md",
+    "Comp Org/ARM Registers  (ORG-7).md",
+    "Comp Org/ORG-D3.md",
     "Comp Org/ARM Programming (ORG-5).md",
+    "Comp Org/Signed Integers (ORG-6).md",
     "Comp Org/Instruction Set Architectures (ORG-3).md",
+    "Comp Org/Computer Performance (ORG-1).md",
+    "Programming Team/PT - Heavy-Light Decomposition.md",
+    "Programming Team/PT - Travelling Salesman.md",
+    "Programming Team/PT - Max Flow.md",
+    "Programming Team/PT - Toposort.md",
+    "Programming Team/PT - Segment Trees.md",
+    "Programming Team/PT - Tries.md",
+    "Programming Team/quicklatex.png",
+    "Algo/Greedy Algorithms (AAD-7).md",
+    "Algo/Graphs (AAD-6).md",
+    "Algo/Pasted image 20240201115206.png",
+    "Comp Org/Pasted image 20240202172503.png",
+    "Algo/Pasted image 20240201115216.png",
+    "Comp Org/Pasted image 20240202175649.png",
+    "Comp Org/Pasted image 20240202175037.png",
+    "Comp Org/Pasted image 20240202173434.png",
+    "Intro to Competitive Programming/Longest Increasing Subsequence.md",
+    "Intro to Competitive Programming/Longest Common Subsequence.md",
+    "Intro to Competitive Programming/Dynamic Programming D (11).md",
+    "Intro to Competitive Programming/'Palindrome Removal' aka 'Zuma'.md",
+    "Data Structures and Algorithms/Graphs (8).md",
+    "Algo/Summary of Topics (AAD-2).md",
+    "Comp Org/ORG-D2.md",
+    "Algo/~$aphs (AAD-6).odt",
+    "Algo/Graphs (AAD-6).odt",
+    "Algo/Graphs (AAD-6).tex",
+    "Comp Org/~$mputer Performance (ORG-1).docx",
+    "Comp Org/Computer Performance (ORG-1).docx",
     "Algo/Pasted image 20240125120556.png",
     "Algo/Pasted image 20240125120552.png",
-    "Algo/Pasted image 20240125120502.png",
-    "Algo/Introduction (AAD-1).md",
-    "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
-    "Comp Org/ORG-D2.md",
-    "Algo/Pasted image 20240125120057.png",
-    "Algo/Pasted image 20240125115555.png",
-    "Algo/Pasted image 20240118112558.png",
-    "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
-    "Comp Org/ORG-D1.md",
-    "Comp Org/Benchmarking (ORG-4).md",
-    "Comp Org/Pasted image 20240122214121.png",
-    "Comp Org/Pasted image 20240122214124.png",
-    "Intro to SWE/Free and Open-Source Software (SWE-4).md",
-    "Intro to SWE/Software Activities and Process Models (SWE-3).md",
-    "Intro to SWE/Software Engineering Ethics (SWE-2).md",
-    "Excalidraw/Drawing 2023-10-24 18.34.27.excalidraw.md",
-    "Comp Org/Pasted image 20240117173922.png",
-    "Comp Org/Pasted image 20240117173726.png",
-    "Comp Org/Computer Performance (ORG-1).md",
-    "Intro to SWE/Defining Software Engineering (SWE-1).md",
-    "Data Structures and Algorithms/Sorting (6).md",
     "Comp Org",
     "Algo",
     "Intro to SWE",
     "New folder",
-    "Intro to Competitive Programming/'Shortest Palindrome'.md",
-    "Intro to Competitive Programming/Djikstra's.md",
-    "Subarray Sum Equals K.md",
-    "Intro to Competitive Programming/Subarray Sum Equals K.md",
     "Programming Team",
-    "Excalidraw",
-    "Images",
-    "Fast",
-    "Intro to Competitive Programming",
-    "Untitled.canvas",
-    "Data Structures and Algorithms"
+    "Untitled.canvas"
   ]
 }
