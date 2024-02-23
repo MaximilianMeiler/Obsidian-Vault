@@ -1,4 +1,5 @@
 Previous lecture: [[ARM Procedures (ORG-9)]]
+Discussion: [[ORG-D4]]
 
 
 When a procedure is called:
@@ -24,3 +25,4 @@ When a procedure is called:
 	- ADD SP, SP, #40
 - Call BR X.. in a function to "return"
 
+Next lecture: [[ARM Strings and Characters (ORG-11)]]
