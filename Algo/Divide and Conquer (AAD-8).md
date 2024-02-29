@@ -114,3 +114,19 @@ Medians and selection
 		- At least $3\lfloor{\frac{n}{10}}\rfloor$ elements will be less than (or equal to?) $p$
 		- (Same line of logic works for elements greater than $p$)
 		- Thus, select is called recursively on at most $n - 3\lfloor{\frac{n}{10}}\rfloor$ elements!
+	- **Def**: $C(n)$ is the max number of compares on any array of $n$ elements
+		- $C(n) \leq C\left(\lfloor \frac{n}{5} \rfloor\right) + C\left(n - 3\lfloor \frac{n}{10}\rfloor\right)+ \frac{11}{5}n$ 
+			- Median of medians + recursive select + (median of 5 + partitioning)
+	- **Intuition**: $C(n)$ is linear in $n$ and super-additive
+		- Assume $n$ is a power of both 5 and 10
+		- Prove that $C(n)$ is monotone non-decreasing - you can't ??
+	- **Def**: $T(n)$ is the max $\#$ of compares on any array of $\leq n$ elements
+		- $T(n)$ is monotone non-decreasing, even if $C(n)$ is not
+	- ![[Pasted image 20240227105740.png]]
+	- **Proof**: $T(n) \leq 44n$ *\[By strong induction]*
+		- Base case: $T(n) \leq 6n$ for $n < 50$ (mergesort)
+		- Inductive hypothesis: Assume true for $1 ... n-1$
+		- Induction step: for $n\geq 50$, we either have $T(n) = T(n-1) \leq 44n$ or $T(n) \leq T\frac{n}{5}+ T(n-3\frac{n}{10})+ \frac{11}{5n}= 44\frac{n}{5}+ 44n-44\frac{n}{3}+ \frac{11}{5n}\approx 44n$ 
+
+
+Next lecture: [[Dynamic Programming (AAD-9)]]

@@ -29,7 +29,16 @@ Floating point numbers
 	- The fraction: ex. 011 means $1 + 0 \times 2^{-1} + 1 \times 2 ^ {-2} + 1 \times 2 ^ {-3}$ 
 	- Then, take the exponent, convert to decimal, subtract 127, and multiply the fraction by $2^{exp}$ 
 
+Denormalized numbers
+- Used when an exponent is all 0s
+- No implied leading 1 before significant
+- Lets us calculate smaller numbers closer to 0
+	- 2 ^ -150
+	- 2^-149 (?) = (2^-23) * (2^-126). instead of 2^-126
 
-81300000
-1000 0001 0011 0000 ...
-1 00000010 0110000...
+Fraction->Binary conversion
+- Multiply by 2
+	- Result greater than 1? Add a 1 and subtract 1 from the result
+	- If not, add a 0
+- Repeat until 0 is reached
+- ![[Pasted image 20240225154645.png]] ![[Pasted image 20240225154819.png]] 
