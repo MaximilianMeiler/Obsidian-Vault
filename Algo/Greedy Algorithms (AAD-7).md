@@ -115,9 +115,9 @@ Previous lecture: [[Graphs (AAD-6)]]
 		- If $e$  is not in the tree, we're done
 		- If it is, remove it from the tree. Swap this edge with another edge $f$ that is also in the cycle
 		- Claim: $f$ is uncolored
-			- It's not in the tree, so it can't be clue
+			- It's not in the tree, so it can't be blue
 			- It's in the cycle $C$, so it's not red either
-		- Claim: $f$'s cost is less than that of $e$ (red rule chose $f$ over it)
+		- Claim: $f$'s cost is less than that of $e$ (red rule chose $e$ over $f$)
 		- Thus, swapping $e$ with $f$ satisfies the invariant
 			- We can always do this since $f$ is never in the tree (this would make a cycle)
 - Theorem: The greedy algorithm terminates, and blue edges form an MST

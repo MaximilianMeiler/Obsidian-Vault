@@ -62,3 +62,12 @@ Previous lecture: [[Divide and Conquer (AAD-8)]]
 		- Note - anything that isn't in a pair creates a gap
 		- ![[Pasted image 20240229123059.png]]
 - **Def**: $OPT(i, j)$: Min cost of aligning prefix strings $x_{1 ... i}$ and $y_{1 ... j}$
+	- Case 1: Merge next letters
+	- Case 2: Create a gap in j with the next letter in i
+	- Case 3: Create a gap in i with the next letter in j
+	- ![[Pasted image 20240305105910.png]]
+- Traceback:
+	- Start in the bottom-right corner of the table ($OPT(n,m)$)
+	- Check the 3 surrounding cells corresponding to matches and gaps
+	- Take the min of all 3 operations when simulated, see what matches up
+	- 

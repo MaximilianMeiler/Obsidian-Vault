@@ -42,3 +42,5 @@ Fraction->Binary conversion
 	- If not, add a 0
 - Repeat until 0 is reached
 - ![[Pasted image 20240225154645.png]] ![[Pasted image 20240225154819.png]] 
+
+Next lecture: [[Single Cycle Datapath A (ORG-16)]]
