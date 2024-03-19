@@ -131,10 +131,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Single Cycle Datapath B (ORG-18).md",
+                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "edfee69db77e1f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95c3f7173e2b2933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Pipelining (ORG-19).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "208ad62c206856a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6149dcc562e157f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/Dynamic Programming (AAD-9).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1969d2116c3c477",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Comp Org/Pasted image 20240318221629.png"
               }
             }
           },
@@ -860,7 +922,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 14
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -873,7 +935,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Single Cycle Datapath B (ORG-18).md",
+                "file": "Comp Org/Pasted image 20240318221629.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -932,7 +994,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4181588318728419,
+                  "scale": 0.3628351333768655,
                   "close": true
                 }
               }
@@ -1012,7 +1074,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single Cycle Datapath B (ORG-18).md",
+                "file": "Comp Org/Pasted image 20240318221629.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1029,7 +1091,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Single Cycle Datapath B (ORG-18).md",
+                "file": "Comp Org/Pasted image 20240318221629.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1052,7 +1114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single Cycle Datapath B (ORG-18).md"
+                "file": "Comp Org/Pasted image 20240318221629.png"
               }
             }
           },
@@ -1085,44 +1147,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6baff0e634d83752",
+  "active": "d8800e7a5925b761",
   "lastOpenFiles": [
-    "Pasted image 20240305132916.png",
-    "Pasted image 20240305132613.png",
-    "Pasted image 20240305132435.png",
-    "Pasted image 20240305132406.png",
+    "Comp Org/Pasted image 20240318110935.png",
+    "Comp Org/Pasted image 20240318110753.png",
+    "Comp Org/Pasted image 20240318105722.png",
+    "Comp Org/Pasted image 20240318105553.png",
+    "Comp Org/Pasted image 20240308174615.png",
+    "Algo/Network Flow (AAD-10).md",
+    "Algo/Dynamic Programming (AAD-9).md",
+    "Algo/Graphs (AAD-6).md",
+    "Comp Org/Pipelining (ORG-19).md",
+    "Comp Org/Pasted image 20240318221629.png",
+    "Comp Org/Single Cycle Datapath B (ORG-18).md",
+    "Comp Org/ORG-D8.md",
     "Comp Org/Circuits for Datapaths (ORG-17).md",
-    "Single Cycle Datapath B (ORG-18).md",
+    "Comp Org/ARM Decisions and Loops (ORG-8).md",
+    "Comp Org/ARM Procedures - Recursion (ORG-12).md",
+    "Comp Org/ARM Registers  (ORG-7).md",
+    "Comp Org/ARM Procedures (ORG-9).md",
+    "Comp Org/ARM Programming (ORG-5).md",
+    "Comp Org/Computer Performance (ORG-1).md",
+    "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
+    "Comp Org/ARM Strings and Characters (ORG-11).md",
+    "Comp Org/Integer Multiplication (ORG-14).md",
+    "Comp Org/Pasted image 20240306174237.png",
+    "Comp Org/Pasted image 20240306172200.png",
+    "Comp Org/Pasted image 20240306172138.png",
+    "Comp Org/Pasted image 20240306172022.png",
+    "Comp Org/ORG-D6.md",
+    "Comp Org/Floating Points (ORG-15).md",
     "Comp Org/Single Cycle Datapath A (ORG-16).md",
     "Comp Org/Buffer Overflow (ORG-13).md",
-    "Comp Org/Computer Performance (ORG-1).md",
-    "Comp Org/Floating Points (ORG-15).md",
-    "Comp Org/ARM Procedures - Recursion (ORG-12).md",
-    "Comp Org/ARM Procedures (ORG-9).md",
     "Comp Org/Instruction Set Architectures (ORG-3).md",
-    "Algo/Dynamic Programming (AAD-9).md",
-    "Pasted image 20240305105910.png",
-    "Comp Org/Pasted image 20240301174324.png",
-    "Comp Org/Pasted image 20240301174310.png",
-    "Comp Org/Pasted image 20240301173932.png",
-    "Comp Org/Pasted image 20240301173929.png",
-    "Comp Org/Pasted image 20240301173928.png",
-    "Comp Org/Pasted image 20240301173309.png",
     "Algo/Divide and Conquer (AAD-8).md",
     "Algo/Greedy Algorithms (AAD-7).md",
     "Algo/AAD-HW3.md",
-    "Comp Org/ORG-D6.md",
     "Algo/Algorithm Analysis (AAD-4).md",
-    "Algo/Stable Matching (AAD-5).md",
-    "Algo/AAD-HW2.md",
-    "Comp Org/ARM Procedures - Stack Frames (ORG-10).md",
-    "Comp Org/ARM Registers  (ORG-7).md",
-    "Comp Org/Integer Multiplication (ORG-14).md",
-    "Comp Org/ARM Strings and Characters (ORG-11).md",
-    "Comp Org/ARM Decisions and Loops (ORG-8).md",
-    "Comp Org/Signed Integers (ORG-6).md",
-    "Intro to Competitive Programming/Sorting and Searching A (4).md",
-    "Algo/Graphs (AAD-6).md",
     "Algo/~$aphs (AAD-6).odt",
     "Algo/Graphs (AAD-6).odt",
     "Algo/Graphs (AAD-6).tex",

@@ -1,3 +1,6 @@
+Previous lecture: [[Circuits for Datapaths (ORG-17)]]
+
+
 ![[Pasted image 20240305132406.png]]
 
 **Control unit** uses the opcode to compute a multitude of control signals
@@ -35,3 +38,6 @@
 - 0: N/A
 	- 1: Sent into an AND gate with ALU output to determine branch target
 	- CBZ
+
+
+Next lecture: [[Pipelining (ORG-19)]]

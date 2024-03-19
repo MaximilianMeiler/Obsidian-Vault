@@ -70,4 +70,65 @@ Previous lecture: [[Divide and Conquer (AAD-8)]]
 	- Start in the bottom-right corner of the table ($OPT(n,m)$)
 	- Check the 3 surrounding cells corresponding to matches and gaps
 	- Take the min of all 3 operations when simulated, see what matches up
-	- 
+	- $O(m+n)$
+
+## Longest Common Subsequence
+- Given two strings $x$ and $y$, find the common subsequence that is as long as possible (non-contiguous)
+- **Def**: $OPT(i, j) =$ length of LCS for prefix strings $x_{1 ... i}$ and $y_{1 ... j}$
+	- Case 1 - $x_{i} = y_{j}$: $OPT(i, j) = 1 + OPT(i-1, j-1)$
+	- Case 2 - $x_{i} \neq y_j$: $OPT(i, j) = max(OPT(i-1, j), OPT(i, j-1))$
+	- Base cases: return 0 if $i = 0$ or $j = 0$
+- OR, reduce to finding a min-cost alignment of $x$ and $y$ with gap penalty $\delta = 1$ and mismatch penalty $\alpha = \infty$ 
+
+## Bellman-Ford-Moore
+- Shortest-path solver when edge lengths are negative
+	- Negative cycles between source $s$ and destination $t$ mean there is no shortest path between the two
+- Without negative cycles, the shortest path is simple 
+- **Proof**
+	- Among all shortest $v\rightarrow t$ paths, consider the one that uses the fewest edges
+	- If that P contains a directed cycle W, we can remove W from P without increasing P's length
+- Single-destination shortest path problem: Find the shortest path from every node in the graph to a destination node $t$ (edges can be neg, no cycles)
+- Negative-cycle problem: Given a digraph, find if a negative cycle exists
+- **Def**: $OPT(i, v)$ = length of shortest $v \rightarrow t$ path using $\leq i$ edges
+- **Goal**: $OPT(n-1, v)$ for each $v$
+	- Case 1: Shortest $v \rightarrow t$ path uses $\leq i-1$ edges
+		- $OPT(i, v) = OPT(i-1, v)$
+	- Case 2: Shortest $v \rightarrow t$ path uses exactly $i$ edges
+		- $OPT(i, v) = min_{w = neighbors[n]}(l_{v,w} + OPT(i-1, w))$
+	- Base cases: If $i = 0$: {If $v = t$, return 0. If not, return $\infty$}
+- **Theorem**: This algorithm works in $\Theta(mn)$ time and $\Theta(n^2)$ space
+- Traceback: Maintain a successor array / predecessor array
+- Space optimization: Keep 2 1d arrays
+	- d\[v] - length of shortest path we've found so far
+	- successor\[v] - next node on a $v \rightarrow t$ path
+- Performance optimization: On iteration $i$, ignore nodes $w$ that were not updated in iteration $i-1$
+- Lemma 3: For each node $v$, $d[v]$ is the length of some $v \rightarrow t$ path
+	- Lemma 4: $d[v]$ is monotone non-decreasing
+- Lemma 5: After pass $i$, $d[v] \leq$ length of a shortest $v \rightarrow t$ path using $\leq i$ edges
+- **Proof** *\[by induction on i]*
+	- Base case: $i = 0$
+	- Assume true after pass $i$
+	- Let $P$ be any $v \rightarrow t$ path with $\leq i+1$ edges
+	- Let $(v, w)$ be the first edge in $P$, and $P'$ the subpath from $w$ to $t$
+		- At the end of pass $i$, $d[w] \leq l(P')$
+	- $d[v] \leq l_{vw} + d[w] \leq l_{vw} + l(P') = l(P)$
+- NOTE - THIS ALGO IS DUMB - RELAXES ALL EDGES N TIMES
+- Lemma 6: Any directed cycle $W$ is a negative cycle
+	- Positive cycles just won't be taken as an update (larger cost)
+- **Theorem 3**: Assuming no negative cycles, BFM runs in $O(nm)$ time and $\Theta(n)$ space
+
+#### Negative cycles
+- **Lemma 7**: If $OPT(n, v) = OPT(n-1, v)$ for all nodes, then there are no negative cycles
+	- Then values have converged, and a shortest $v \rightarrow t$ path exists
+- **Lemma 8: ** If $OPT(n, v) < OPT(n-1, v)$** for some node $v$, then any shortest $v \rightarrow t$ path contains a negative cycle $W$
+	- **Proof** *\[by contradiction]*
+		- We know that the shortest path must have exactly $n$ edges over $n-1$
+		- However, this means $n+1$ nodes are along that path, meaning a node is repeated. This forms a (negative) cycle.
+- **Theorem 4:** We can find a negative cycle in $\Theta(mn)$ time and $\Theta(n^2)$
+	- Add a sink node $t$, connect all nodes to it with a 0-length edge
+	- Run Bellman-Ford for $n+1$ passes instead of $n-1$
+		- If no $d[v]$ values are updated in pass $n+1$, then there are no negative cycles
+	- We can find the cycle by making $t$ our destination, then we can trace back from it to find the repeated node
+
+
+Next lecture: [[Network Flow (AAD-10)]]
