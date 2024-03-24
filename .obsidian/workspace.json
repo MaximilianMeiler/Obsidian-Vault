@@ -194,9 +194,64 @@
             "id": "c1969d2116c3c477",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Comp Org/Pasted image 20240318221629.png"
+                "file": "Comp Org/Floating Points (ORG-15).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c594d982dee6568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33f6e747d72c3750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Competitive Programming/Strings A (23).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10cf13a1d79394d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/AAD-HW3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "033625d3c034e8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/AAD-HW4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -922,7 +977,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       },
       {
         "id": "c32f15d72fbdc0f9",
@@ -935,7 +990,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Comp Org/Pasted image 20240318221629.png",
+                "file": "Algo/AAD-HW4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -994,7 +1049,7 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628351333768655,
+                  "scale": 0.4626979545549588,
                   "close": true
                 }
               }
@@ -1074,7 +1129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Org/Pasted image 20240318221629.png",
+                "file": "Algo/AAD-HW4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1091,7 +1146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Org/Pasted image 20240318221629.png",
+                "file": "Algo/AAD-HW4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1114,7 +1169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Org/Pasted image 20240318221629.png"
+                "file": "Algo/AAD-HW4.md"
               }
             }
           },
@@ -1147,43 +1202,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8800e7a5925b761",
+  "active": "033625d3c034e8c4",
   "lastOpenFiles": [
+    "Pasted image 20240323213804.png",
+    "Algo/Dynamic Programming (AAD-9).md",
+    "Algo/Divide and Conquer (AAD-8).md",
+    "Algo/AAD-HW4.md",
+    "Algo/Network Flow (AAD-10).md",
+    "Algo/AAD-HW2.md",
+    "Algo/AAD-HW3.md",
+    "Algo/AAD-HW1.md",
+    "Intro to Competitive Programming/Misc B (25).md",
+    "Intro to Competitive Programming/Strings B (24).md",
+    "Intro to Competitive Programming/Strings A (23).md",
+    "Intro to Competitive Programming/Misc A (22).md",
+    "Intro to Competitive Programming/Trees B (21).md",
+    "Intro to Competitive Programming/Trees A (20).md",
+    "Intro to Competitive Programming/Minimum Range Queries B (19).md",
+    "Intro to Competitive Programming/Minimum Range Queries A (18).md",
+    "Intro to Competitive Programming/Graphs C (17).md",
+    "Intro to Competitive Programming/'My Calendar III'.md",
+    "Algo/Greedy Algorithms (AAD-7).md",
+    "Comp Org/Pipelining (ORG-19).md",
+    "Comp Org/Circuits for Datapaths (ORG-17).md",
+    "Comp Org/Computer Performance (ORG-1).md",
+    "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
+    "Comp Org/Buffer Overflow (ORG-13).md",
+    "Comp Org/Benchmarking (ORG-4).md",
+    "Comp Org/ORG-D8.md",
+    "Comp Org/Pasted image 20240305132613.png",
+    "Comp Org/Pasted image 20240318221629.png",
     "Comp Org/Pasted image 20240318110935.png",
     "Comp Org/Pasted image 20240318110753.png",
     "Comp Org/Pasted image 20240318105722.png",
     "Comp Org/Pasted image 20240318105553.png",
     "Comp Org/Pasted image 20240308174615.png",
-    "Algo/Network Flow (AAD-10).md",
-    "Algo/Dynamic Programming (AAD-9).md",
-    "Algo/Graphs (AAD-6).md",
-    "Comp Org/Pipelining (ORG-19).md",
-    "Comp Org/Pasted image 20240318221629.png",
-    "Comp Org/Single Cycle Datapath B (ORG-18).md",
-    "Comp Org/ORG-D8.md",
-    "Comp Org/Circuits for Datapaths (ORG-17).md",
-    "Comp Org/ARM Decisions and Loops (ORG-8).md",
-    "Comp Org/ARM Procedures - Recursion (ORG-12).md",
-    "Comp Org/ARM Registers  (ORG-7).md",
-    "Comp Org/ARM Procedures (ORG-9).md",
-    "Comp Org/ARM Programming (ORG-5).md",
-    "Comp Org/Computer Performance (ORG-1).md",
-    "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
-    "Comp Org/ARM Strings and Characters (ORG-11).md",
-    "Comp Org/Integer Multiplication (ORG-14).md",
     "Comp Org/Pasted image 20240306174237.png",
     "Comp Org/Pasted image 20240306172200.png",
     "Comp Org/Pasted image 20240306172138.png",
-    "Comp Org/Pasted image 20240306172022.png",
-    "Comp Org/ORG-D6.md",
-    "Comp Org/Floating Points (ORG-15).md",
-    "Comp Org/Single Cycle Datapath A (ORG-16).md",
-    "Comp Org/Buffer Overflow (ORG-13).md",
-    "Comp Org/Instruction Set Architectures (ORG-3).md",
-    "Algo/Divide and Conquer (AAD-8).md",
-    "Algo/Greedy Algorithms (AAD-7).md",
-    "Algo/AAD-HW3.md",
-    "Algo/Algorithm Analysis (AAD-4).md",
     "Algo/~$aphs (AAD-6).odt",
     "Algo/Graphs (AAD-6).odt",
     "Algo/Graphs (AAD-6).tex",

@@ -36,7 +36,7 @@ Previous lecture: [[Circuits for Datapaths (ORG-17)]]
 	- STUR
 **Branch**
 - 0: N/A
-	- 1: Sent into an AND gate with ALU output to determine branch target
+- 1: Sent into an AND gate with ALU output to determine branch target
 	- CBZ
 
 
