@@ -30,7 +30,7 @@ Previous lecture: [[Divide and Conquer (AAD-8)]]
 	- `M[j] = max(M(j-1), w[j] + M[p[j]])`
 
 ## Maximum Contiguous Subarray
-- **Goal**: Given an array of $n$ integers, find a contiguous subarray whose sub is maximum
+- **Goal**: Given an array of $n$ integers, find a contiguous subarray whose sum is maximum
 - Brute force: Try every pair of indices, add all values between each pair - $O(n^3)$
 - Precompute cumulative sums, take difference of prefixes to find sum of subarray (`S[j] - S[i-1]`)
 	- Improves runtime to $O(n^2)$

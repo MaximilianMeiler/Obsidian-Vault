@@ -38,3 +38,33 @@ Start at the root and probe its value. Probe both children, and move to a child 
 	- When you're iterating backwards, add the sum of `weight[neighbor] * #edges to that neighbor`
 		- Make this the weight of that node
 	- Diagram attached for convenience: ![[Pasted image 20240323213804.png]]
+
+## Chapter 7
+
+#### Problem 1
+a - Max flow value: 2
+Matching cuts:
+- $s / uvt$
+- $suv/t$
+- $sv/ut$
+
+b - Max flow value: 4
+Matching cuts: 
+- $sv/ut$
+
+#### Problem 2
+- Flow value: 5+5+8 = 18
+	- This is *not* a max flow
+- Let the nodes, from top to bottom and left to right, be labeled $a, s, b, c, t, d$
+	- Min cut: $asbc/dt$ (capacity 21)
+		- This can be verified by running max flow :)
+
+#### Problem 4
+- Not true, we can prove this with 3 nodes as follows:
+	- $s \Rightarrow (2) \Rightarrow a \Rightarrow (1) \Rightarrow t$
+	- Max flow is 1, but the edge out of the sink has max capacity 2
+
+#### Problem 5
+- This is clearly not true, as how much the cut would increase scales with the number of edges coming out of it.
+- This leads us to a counterexample such as this: ![[Pasted image 20240325144618.png]]
+	- Here, the 1-groups are min-cut edges before incrementing, but the 4 (5?) becomes the min-cut edge after incrementing

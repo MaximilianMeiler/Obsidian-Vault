@@ -32,3 +32,21 @@ Data Hazards
 	- ![[Pasted image 20240318105722.png]]
 
 ![[Pasted image 20240318221629.png]]
+
+Avoiding control hazards
+- Normally, SUB -> CBZ leads to 3 stalls! We can change our design to improve this
+	- By moving branch calculation and condition checking all into the ID stage (above)
+	- SUB -> CBZ now requires one stall
+	- LDUR -> CBZ requires 2
+		- Let LDUR reach last stage before letting CBZ advance beyond ID
+- We predict a branch to either be taken/not taken
+	- If our CBZ passes the ID stage and we are incorrect, we need to flush out all of the instructions we incorrectly did in the meantime
+- Other predictions
+	- Backward branches always taken, forward branches never taken
+	- We can also use a 2-bit predictor
+		- Flowchart where more takens skew the program into taken more branches and vice versa
+		- 00 (never take) <-> 01 <-> 10 <-> 11 (always take)
+	- Branch history table - stores if we have previously branched or not at an address
+
+
+Next lecture: [[Cache Memory (ORG-20)]]
