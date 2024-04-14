@@ -84,4 +84,20 @@ Regular operations
 				- It's evident that we can begin at the start state with the entire regular expression, and then slowly break it up into "machine form" until fully expanded
 
 Non-Regular Languages
-- 
+- **Pumping Lemma**: If a language $A$ is regular, every long string in $A$ ($\geq$ than the "pumping length" $p$) can be simplified to a form $xyz$,  where $y$ is just part of a loop in the machine and can thus be repeated any number of times ![[Pasted image 20240411111419.png]]
+- How to disprove the regularity of a language
+	- Assume a language is regular, and the pumping lemma applies
+	- Find a string with a length $\geq p$, which, when "pumped" (y repeated), is not recognized by the machine
+		- Ex. machine that recognizes $0^{k}1^{k}$
+			- Choose the string $0^{p}1^{p}$
+			- By condition 3 of the lemma, $y$ would consist of all 0s
+			- By pumping any y, the new string is not recognized by the original machine
+		- Ex. machine that recognizes $ww$
+			- Choose the string $0^{p}10^{p}1$
+	- We can also combine the pumping lemma with closure properties!
+		- Ex. machine that recognizes an equal number of 0s and 1s ($B$)
+		- Assume 0\*1\* is regular, we can further assume $B \text{ }\cap$ 0\*1\* is regular
+			- In this case, $B \text{ }\cap$ 0\*1\* = $0^{k}1^{k}$ would also be regular
+
+
+Next lecture: [[Turing Machines (AAD-12)]]

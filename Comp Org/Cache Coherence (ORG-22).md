@@ -12,3 +12,6 @@ MSI protocol
 	- I - the cache contains an old copy of the value 
 	- S - the block is unmodified
 - A bus shared across L1 caches **snoops** to see if any memory address is read/write by any cache
+
+
+Next lecture: [[Parallel Processing (ORG-23)]]

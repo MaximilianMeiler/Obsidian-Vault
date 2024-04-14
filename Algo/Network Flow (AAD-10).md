@@ -62,7 +62,7 @@ The **value** of a flow is (flow coming out of source) - (flow coming into sourc
 	- **Corrolary**: FF runtime is $O(mnC)$
 
 ### Matchings
-- Given a graph, a subset of edges $M$ is a **matching** if eat node appears in at most 1 edge in $M$
+- Given a graph, a subset of edges $M$ is a **matching** if each node appears in at most 1 edge in $M$
 - For **bipartite** graphs, lead one set of nodes from a source and the others into a sink. 
 	- All edges would have weights of 1 (middle edges can have any weight)
 	- **Theorem**: There is a 1-1 correspondence between matchings of cardinality $k$ and integral flows of value $k$ on the adjusted graph
@@ -83,4 +83,4 @@ The **value** of a flow is (flow coming out of source) - (flow coming into sourc
 		- Every node has a flow-conservation value of 1, which means it can only be connected to one input and one output of a path
 		- This is also the number of edges that have to be deleted in order to disconnect $t$ from $s$
 
-Next lecture: [[TBD (AAD-11)]]
+Next lecture: [[State Machines and Languages (AAD-11)]]
