@@ -1,4 +1,4 @@
-Previous lecture: [[Network Flow (AAD-10)]]
+uPrevious lecture: [[Network Flow (AAD-10)]]
 
 
 Finite automata & languages
