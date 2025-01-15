@@ -4,1223 +4,569 @@
     "type": "split",
     "children": [
       {
-        "id": "bc40f0b8afa379b3",
+        "id": "c32f15d72fbdc0f9",
         "type": "tabs",
-        "dimension": 67.10526315789474,
+        "dimension": 65.19903498190591,
         "children": [
           {
-            "id": "9596c6aa724ec812",
+            "id": "0e69ef2047221c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Trees (3).md",
+                "file": "Regression Analysis/Simple Linear Regression (1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simple Linear Regression (1)"
             }
           },
           {
-            "id": "5ace9f3e19af20b7",
+            "id": "6c947f48d87de6ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Competitive Programming/Midterm Review (14).md",
+                "file": "Programming Language Concepts/Overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Overview"
             }
           },
           {
-            "id": "74522adff6bcf800",
+            "id": "59c8350cd6447ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Heaps and Priority Queues (5).md",
+                "file": "Regression Analysis/Simple Linear Regression (1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simple Linear Regression (1)"
             }
           },
           {
-            "id": "7fcd42e3b82718e4",
+            "id": "ae366a8b6abacc90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Graphs (AAD-6).md",
+                "file": "Programming Language Concepts/Object-Oriented Programming (1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Object-Oriented Programming (1)"
             }
           },
           {
-            "id": "fe22ea69cb36f4d2",
+            "id": "f8a18e47c3f3a9e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Competitive Programming/Greedy B (7).md",
+                "file": "Professional Communication/Writing for an Audience.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Writing for an Audience"
             }
           },
           {
-            "id": "1a6c4e00fb57f342",
+            "id": "fa00523bc9f5ad57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Competitive Programming/Greedy B (7).md",
+                "file": "Programming Language Concepts/Regular Expressions (2).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Regular Expressions (2)"
             }
           },
           {
-            "id": "3c583471ef62aeae",
+            "id": "a3d49837fbbdd9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Competitive Programming/Midterm Review (14).md",
+                "file": "Regression Analysis/Inference in Regression Analysis (2).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Inference in Regression Analysis (2)"
             }
           },
           {
-            "id": "1d9a1bfb8da2dc50",
+            "id": "7bc034354c20c24a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Single Cycle Datapath A (ORG-16).md",
+                "file": "Programming Language Concepts/Testing (3).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Testing (3)"
             }
           },
           {
-            "id": "c1e0854b6930dff2",
+            "id": "94351c6b0bdf48b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Circuits for Datapaths (ORG-17).md",
+                "file": "Intro to Competitive Programming/Minimum Range Queries B (19).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Minimum Range Queries B (19)"
             }
           },
           {
-            "id": "6baff0e634d83752",
+            "id": "195c29f5b21e865b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
+                "file": "Regression Analysis/Simple Linear Regression (1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simple Linear Regression (1)"
             }
           },
           {
-            "id": "edfee69db77e1f32",
+            "id": "28fe32e5f01dfeee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
+                "file": "Professional Communication/The Resume.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Resume"
             }
           },
           {
-            "id": "95c3f7173e2b2933",
+            "id": "d841ef017f1bccf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Pipelining (ORG-19).md",
+                "file": "Regression Analysis/Inference in Regression Analysis (2).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Inference in Regression Analysis (2)"
             }
           },
           {
-            "id": "208ad62c206856a5",
+            "id": "075a008528a080e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
+                "file": "Programming Team/PT - Combinatorics under Mod.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PT - Combinatorics under Mod"
             }
           },
           {
-            "id": "e6149dcc562e157f",
+            "id": "9d34a6a38a102e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Dynamic Programming (AAD-9).md",
+                "file": "Programming Language Concepts/Lexical Analysis (4).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lexical Analysis (4)"
             }
           },
           {
-            "id": "c1969d2116c3c477",
+            "id": "b378b826b9ef9f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Floating Points (ORG-15).md",
+                "file": "Programming Language Concepts/Context-Free Grammars (5).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Context-Free Grammars (5)"
             }
           },
           {
-            "id": "4c594d982dee6568",
+            "id": "173f61cea624b1f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Single Cycle Datapath B (ORG-18).md",
+                "file": "Programming Language Concepts/Context-Free Grammars (5).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Context-Free Grammars (5)"
             }
           },
           {
-            "id": "33f6e747d72c3750",
+            "id": "bc0a4c40ad6f8542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to Competitive Programming/Strings A (23).md",
+                "file": "Regression Analysis/Diagnostics and Remedial Measures (3).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Diagnostics and Remedial Measures (3)"
             }
           },
           {
-            "id": "10cf13a1d79394d6",
+            "id": "b17b13859153fd8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/AAD-HW3.md",
+                "file": "Regression Analysis/Simple Linear Regression (1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simple Linear Regression (1)"
             }
           },
           {
-            "id": "033625d3c034e8c4",
+            "id": "e7fe8136942cf310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Divide and Conquer (AAD-8).md",
+                "file": "Regression Analysis/Simultaneous Inferences (4).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simultaneous Inferences (4)"
             }
           },
           {
-            "id": "88d0cf4a82de0347",
+            "id": "2c4e924bd38d8f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Dynamic Programming (AAD-9).md",
+                "file": "Professional Communication/Research.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Research"
             }
           },
           {
-            "id": "386047d9fe3d2aff",
+            "id": "01de22952ebd4b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Dynamic Programming (AAD-9).md",
+                "file": "Professional Communication/The Resume.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Resume"
             }
           },
           {
-            "id": "d82446e50e4aa102",
+            "id": "9fcfbb33a3c40b33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Dynamic Programming (AAD-9).md",
+                "file": "Regression Analysis/Matrix Algebra (5).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Matrix Algebra (5)"
             }
           },
           {
-            "id": "267b2ddbd0d19487",
+            "id": "08018b240649a64c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Dynamic Programming (AAD-9).md",
+                "file": "Professional Communication/Grammar and Writing Style.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Grammar and Writing Style"
             }
           },
           {
-            "id": "604c9aa0f65bb695",
+            "id": "d2418e536d459b75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Dynamic Programming (AAD-9).md",
+                "file": "Programming Language Concepts/Object-Oriented Programming (1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Object-Oriented Programming (1)"
             }
           },
           {
-            "id": "95240dfaace2e12e",
+            "id": "de260777308f03f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Pipelining (ORG-19).md",
+                "file": "Regression Analysis/Multiple Linear Regression (6).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Multiple Linear Regression (6)"
             }
           },
           {
-            "id": "090f7e8d64fe176e",
+            "id": "7fe75a26abe9ba96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Network Flow (AAD-10).md",
+                "file": "Regression Analysis/Multiple Linear Regression II (7).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Multiple Linear Regression II (7)"
             }
           },
           {
-            "id": "7528adb0acaf3996",
+            "id": "307d1729d6ec0137",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Cache Memory (ORG-20).md",
+                "file": "Professional Communication/Grammar and Writing Style.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Grammar and Writing Style"
             }
           },
           {
-            "id": "c61403cf44f6c816",
+            "id": "1b9380a467905308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Cache Memory (ORG-20).md",
+                "file": "Regression Analysis/Polynomial Models and Qualitative Predictors (8).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Polynomial Models and Qualitative Predictors (8)"
             }
           },
           {
-            "id": "a272926fd34f78c2",
+            "id": "05579bd68bcf2539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Virtual Memory (ORG-21).md",
+                "file": "Professional Communication/Grammar and Writing Style.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Grammar and Writing Style"
             }
           },
           {
-            "id": "345c3f0965bb63c7",
+            "id": "9f0e6af1edc467ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Cache Coherence (ORG-22).md",
+                "file": "Professional Communication/Writing for an Audience.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Writing for an Audience"
             }
           },
           {
-            "id": "5d29f234c15b7bce",
+            "id": "7ae7a01c7c78d848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/AAD-HW4.md",
+                "file": "Regression Analysis/Model Building (9).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Model Building (9)"
             }
           },
           {
-            "id": "38831c9d2bd3b253",
+            "id": "e6f097e27ad6e283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/State Machines and Languages (AAD-11).md",
+                "file": "Professional Communication/Technical Proposal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Technical Proposal"
             }
           },
           {
-            "id": "d34b04f51d784532",
+            "id": "b3e1210eac02f838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/Turing Machines (AAD-12).md",
+                "file": "Regression Analysis/Multiple Diagnostics (10).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Multiple Diagnostics (10)"
             }
           },
           {
-            "id": "bccc6cae4d29aaec",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Comp Org/Pasted image 20240412174629.png"
-              }
-            }
-          },
-          {
-            "id": "0335a9b0e33798e9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Comp Org/Pasted image 20240412173629.png"
-              }
-            }
-          },
-          {
-            "id": "4792fe0a4ed90d54",
+            "id": "0523218b4503149c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/AAD-HW5.md",
+                "file": "Regression Analysis/Additional Remedial Measures (11).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Additional Remedial Measures (11)"
             }
           },
           {
-            "id": "cd4ae52be381e3c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Intractability (AAD-13).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04e0cb72459a1059",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240428170656.png"
-              }
-            }
-          },
-          {
-            "id": "a6ed505f3cf650a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/AAD-HW6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fe0f13207746c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Single Cycle Datapath A (ORG-16).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed8b08eb4d4b5733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/AAD-HW3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "580606e0a9d2fb45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Divide and Conquer (AAD-8).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3c845a037159297",
+            "id": "d665764d808ea75d",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Algo/Pasted image 20240229123059.png"
-              }
+                "file": "Images/Pasted image 20240828131916.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240828131916"
             }
           },
           {
-            "id": "1bebbcc9fa4f8d5b",
+            "id": "b80f6a82ca454a67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/AAD-HW3.md",
+                "file": "Advanced DSA/Defining Complexities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Defining Complexities"
             }
           },
           {
-            "id": "0b7fb96aad638e3d",
+            "id": "6a00e522e8c96226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Org/Buffer Overflow (ORG-13).md",
+                "file": "Databases/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e187397e67404cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Integer Multiplication (ORG-14).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9926a30cd43738e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Floating Points (ORG-15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "221f9962817b9000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Divide and Conquer (AAD-8).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfb8692f0d16269f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Graphs (AAD-6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d95b5a9d0724b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Procedures - Recursion (ORG-12).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bda13dda00608ddc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Procedures - Recursion (ORG-12).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32e335c1d653fc85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Greedy Algorithms (AAD-7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac00ef79387e5e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Buffer Overflow (ORG-13).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "392c3e6df84cce31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Integer Multiplication (ORG-14).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75ce484fa1dcf7e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Floating Points (ORG-15).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d4b5d454f7e3f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Programming (ORG-5).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7ee7faa1d3a640a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Signed Integers (ORG-6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9560f6027c708a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Computer Performance (ORG-1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e2c52249df342c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "831476c8058868f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Instruction Set Architectures (ORG-3).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "318f53b532a4e543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Registers  (ORG-7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc959cfc71b81da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Graphs (AAD-6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2904ce34d8371637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Greedy Algorithms (AAD-7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2499319bf4086f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57b72ee2d8b4aedc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Proofs Review (AAD-3).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd3ddba941e6951f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to SWE/Software Engineering Ethics (SWE-2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71b7e05ac66dce5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Computer Performance (ORG-1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ca72e345f7c78d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Bits, Binary, Digital Logic (ORG-2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1d1019aa198538f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Benchmarking (ORG-4).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07ee029baeffd343",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Comp Org/Pasted image 20240112174427.png"
-              }
-            }
-          },
-          {
-            "id": "9615875d700b6dca",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Intro to SWE/Pasted image 20240117154634.png"
-              }
-            }
-          },
-          {
-            "id": "ddb689c2bf467ab3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Intro to SWE/Pasted image 20240117154634.png"
-              }
-            }
-          },
-          {
-            "id": "55a822bf3984ee8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Algorithm Analysis (AAD-4).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35a5fd22d954abf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to SWE/Software Activities and Process Models (SWE-3).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e11e62cdf37c208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/Benchmarking (ORG-4).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba3795fa701d819a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Programming (ORG-5).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c0d77250fb7f3ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Stable Matching (AAD-5).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dd7b05f0df16d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Graphs (AAD-6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9d35e032d64ca42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to Competitive Programming/Median of Two Sorted Arrays.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "937e29585181b709",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "70a324f163ccaf8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to SWE/Defining Software Engineering (SWE-1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bcb4556aadd694c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to SWE/Defining Software Engineering (SWE-1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f6a6bddbf7407f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Introduction (AAD-1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d892e25c0261e45c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Summary of Topics (AAD-2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d940a18b43d3e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Proofs Review (AAD-3).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6039f6fac6ff25fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Registers  (ORG-7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d019bdf989c5b983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Decisions and Loops (ORG-8).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "234f399fc388c37c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Team/PT - Travelling Salesman.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b058932ebaf39f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Team/PT - Heavy-Light Decomposition.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54fe554d77f9db06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Procedures (ORG-9).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e53edeea8a0d67b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Graphs (AAD-6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05089a50a6eb6c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Strings and Characters (ORG-11).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "039f8801f824a52d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Comp Org/Pasted image 20240209175535.png"
-              }
-            }
-          },
-          {
-            "id": "37221f802b5f6ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comp Org/ARM Procedures - Stack Frames (ORG-10).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75cbd11809a53bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/Greedy Algorithms (AAD-7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 36
       },
       {
-        "id": "c32f15d72fbdc0f9",
+        "id": "ecb19f1d94be3b80",
         "type": "tabs",
-        "dimension": 32.89473684210527,
+        "dimension": 34.80096501809409,
         "children": [
           {
             "id": "598f964f9cba2afa",
@@ -1228,7 +574,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Algo/AAD-HW6.md",
+                "file": "Databases/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1287,10 +633,12 @@
                   "repelStrength": 9.94791666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2826029745201554,
+                  "scale": 0.3696937068519158,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -1313,7 +661,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -1328,7 +678,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -1336,7 +688,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -1344,7 +698,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -1367,7 +723,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/AAD-HW6.md",
+                "file": "Databases/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1375,7 +731,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -1384,10 +742,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/AAD-HW6.md",
+                "file": "Regression Analysis/Matrix Algebra (5).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Matrix Algebra (5)"
             }
           },
           {
@@ -1398,7 +758,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -1407,8 +769,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/AAD-HW6.md"
-              }
+                "file": "Regression Analysis/Matrix Algebra (5).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Matrix Algebra (5)"
             }
           },
           {
@@ -1420,7 +784,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -1440,54 +806,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6ed505f3cf650a1",
+  "active": "d8800e7a5925b761",
   "lastOpenFiles": [
-    "Algo/Intractability (AAD-13).md",
-    "Algo/AAD-HW5.md",
-    "Algo/State Machines and Languages (AAD-11).md",
-    "Algo/AAD-HW6.md",
-    "Algo/Turing Machines (AAD-12).md",
-    "Excalidraw/Drawing 2024-04-29 15.59.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-29 15.58.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-24 18.34.27.excalidraw.md",
-    "Pasted image 20240428170656.png",
+    "Advanced DSA/Defining Complexities.md",
+    "Databases/Untitled.md",
+    "Databases",
+    "Images/Pasted image 20240828131916.png",
+    "Advanced DSA",
+    "Regression Analysis/Model Building (9).md",
+    "Regression Analysis/Multiple Diagnostics (10).md",
+    "Regression Analysis/Additional Remedial Measures (11).md",
+    "Regression Analysis/Logistic Regression (12).md",
+    "Regression Analysis/Multiple Linear Regression II (7).md",
+    "Regression Analysis/Polynomial Models and Qualitative Predictors (8).md",
+    "Regression Analysis/Multiple Linear Regression (6).md",
+    "Regression Analysis/Simultaneous Inferences (4).md",
+    "Regression Analysis/Inference in Regression Analysis (2).md",
+    "Regression Analysis/Diagnostics and Remedial Measures (3).md",
+    "Professional Communication/Technical Proposal.md",
+    "Professional Communication/Research.md",
+    "Professional Communication/Writing for an Audience.md",
+    "Professional Communication/The Resume.md",
+    "Images/Pasted image 20241122131104.png",
+    "Regression Analysis/Pasted image 20240828131558.png",
+    "Intro to Competitive Programming/Majority Element.md",
+    "Intro to Competitive Programming/Longest Palindromic Substring.md",
+    "Intro to Competitive Programming/Longest Common Subsequence.md",
+    "Intro to Competitive Programming/Longest Increasing Subsequence.md",
+    "Intro to Competitive Programming/Graphs A (15).md",
+    "Intro to Competitive Programming/Maze Problem.md",
+    "Intro to Competitive Programming/Midterm Review (14).md",
+    "Intro to Competitive Programming/Graphs C (17).md",
+    "Programming Language Concepts/Regular Expressions (2).md",
+    "Programming Language Concepts/Parsing (6).md",
+    "Images/Pasted image 20241108125928.png",
+    "Images/Pasted image 20241108125844.png",
+    "Images/Pasted image 20241108125727.png",
+    "Images/Pasted image 20241106132355.png",
+    "Images/Pasted image 20241106132353.png",
+    "Images/Pasted image 20241106131513.png",
+    "Images/Pasted image 20241104133814.png",
+    "Professional Communication",
+    "Physics 2",
+    "Programming Language Concepts",
+    "Regression Analysis",
     "Untitled.canvas",
-    "Algo/Network Flow (AAD-10).md",
-    "Algo/AAD-HW4.md",
-    "Algo/Greedy Algorithms (AAD-7).md",
-    "Algo/Divide and Conquer (AAD-8).md",
-    "Algo/Algorithm Analysis (AAD-4).md",
-    "Algo/Graphs (AAD-6).md",
-    "Comp Org/ARM Decisions and Loops (ORG-8).md",
-    "Comp Org/Parallel Processing (ORG-23).md",
-    "Comp Org/Cache Coherence (ORG-22).md",
-    "Comp Org/Floating Points (ORG-15).md",
-    "Algo/Pasted image 20240418121827.png",
-    "Programming Team/PT - Travelling Salesman.md",
-    "Intro to Competitive Programming/Misc B (25).md",
-    "Intro to Competitive Programming/Final Review (26).md",
-    "Algo/AAD-HW3.md",
-    "Intro to Competitive Programming/TSP.md",
-    "Algo/Dynamic Programming (AAD-9).md",
-    "Algo/Pasted image 20240412103208.png",
-    "Algo/Pasted image 20240412103853.png",
-    "Comp Org/Pasted image 20240412174629.png",
-    "Comp Org/Pasted image 20240412173629.png",
-    "Algo/Pasted image 20240412105324.png",
-    "Algo/Pasted image 20240412103850.png",
-    "Algo/Pasted image 20240411121307.png",
-    "Algo/Pasted image 20240411111419.png",
-    "Comp Org/Cache Memory (ORG-20).md",
-    "Algo/Summary of Topics (AAD-2).md",
     "Algo/~$aphs (AAD-6).odt",
     "Algo/Graphs (AAD-6).odt",
     "Algo/Graphs (AAD-6).tex",
-    "Comp Org/~$mputer Performance (ORG-1).docx",
-    "Comp Org/Computer Performance (ORG-1).docx",
-    "Comp Org",
-    "Algo",
-    "Intro to SWE",
-    "New folder",
-    "Programming Team"
+    "Comp Org/~$mputer Performance (ORG-1).docx"
   ]
 }
