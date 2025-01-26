@@ -4,644 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "c32f15d72fbdc0f9",
+        "id": "ecb19f1d94be3b80",
         "type": "tabs",
-        "dimension": 65.19903498190591,
         "children": [
           {
-            "id": "0e69ef2047221c3c",
+            "id": "8ef2a9557a3c476e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regression Analysis/Simple Linear Regression (1).md",
+                "file": "Advanced DSA/External Sorting (2).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Linear Regression (1)"
+              "title": "External Sorting (2)"
             }
           },
           {
-            "id": "6c947f48d87de6ca",
+            "id": "97ea29c9e810e749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Language Concepts/Overview.md",
+                "file": "Operating Systems/Computer Hardware Fundamentals (1).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Computer Hardware Fundamentals (1)"
             }
           },
           {
-            "id": "59c8350cd6447ccf",
+            "id": "2aadf88fd18b1d5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regression Analysis/Simple Linear Regression (1).md",
+                "file": "Intro to Probability/HW1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Linear Regression (1)"
-            }
-          },
-          {
-            "id": "ae366a8b6abacc90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language Concepts/Object-Oriented Programming (1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object-Oriented Programming (1)"
-            }
-          },
-          {
-            "id": "f8a18e47c3f3a9e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/Writing for an Audience.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing for an Audience"
-            }
-          },
-          {
-            "id": "fa00523bc9f5ad57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language Concepts/Regular Expressions (2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regular Expressions (2)"
-            }
-          },
-          {
-            "id": "a3d49837fbbdd9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Inference in Regression Analysis (2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inference in Regression Analysis (2)"
-            }
-          },
-          {
-            "id": "7bc034354c20c24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language Concepts/Testing (3).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Testing (3)"
-            }
-          },
-          {
-            "id": "94351c6b0bdf48b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to Competitive Programming/Minimum Range Queries B (19).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Minimum Range Queries B (19)"
-            }
-          },
-          {
-            "id": "195c29f5b21e865b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Simple Linear Regression (1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simple Linear Regression (1)"
-            }
-          },
-          {
-            "id": "28fe32e5f01dfeee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/The Resume.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Resume"
-            }
-          },
-          {
-            "id": "d841ef017f1bccf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Inference in Regression Analysis (2).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inference in Regression Analysis (2)"
-            }
-          },
-          {
-            "id": "075a008528a080e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Team/PT - Combinatorics under Mod.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PT - Combinatorics under Mod"
-            }
-          },
-          {
-            "id": "9d34a6a38a102e57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language Concepts/Lexical Analysis (4).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lexical Analysis (4)"
-            }
-          },
-          {
-            "id": "b378b826b9ef9f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language Concepts/Context-Free Grammars (5).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Context-Free Grammars (5)"
-            }
-          },
-          {
-            "id": "173f61cea624b1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language Concepts/Context-Free Grammars (5).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Context-Free Grammars (5)"
-            }
-          },
-          {
-            "id": "bc0a4c40ad6f8542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Diagnostics and Remedial Measures (3).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diagnostics and Remedial Measures (3)"
-            }
-          },
-          {
-            "id": "b17b13859153fd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Simple Linear Regression (1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simple Linear Regression (1)"
-            }
-          },
-          {
-            "id": "e7fe8136942cf310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Simultaneous Inferences (4).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simultaneous Inferences (4)"
-            }
-          },
-          {
-            "id": "2c4e924bd38d8f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/Research.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research"
-            }
-          },
-          {
-            "id": "01de22952ebd4b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/The Resume.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Resume"
-            }
-          },
-          {
-            "id": "9fcfbb33a3c40b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Matrix Algebra (5).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matrix Algebra (5)"
-            }
-          },
-          {
-            "id": "08018b240649a64c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/Grammar and Writing Style.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammar and Writing Style"
-            }
-          },
-          {
-            "id": "d2418e536d459b75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language Concepts/Object-Oriented Programming (1).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Object-Oriented Programming (1)"
-            }
-          },
-          {
-            "id": "de260777308f03f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Multiple Linear Regression (6).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiple Linear Regression (6)"
-            }
-          },
-          {
-            "id": "7fe75a26abe9ba96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Multiple Linear Regression II (7).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiple Linear Regression II (7)"
-            }
-          },
-          {
-            "id": "307d1729d6ec0137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/Grammar and Writing Style.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammar and Writing Style"
-            }
-          },
-          {
-            "id": "1b9380a467905308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Polynomial Models and Qualitative Predictors (8).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polynomial Models and Qualitative Predictors (8)"
-            }
-          },
-          {
-            "id": "05579bd68bcf2539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/Grammar and Writing Style.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammar and Writing Style"
-            }
-          },
-          {
-            "id": "9f0e6af1edc467ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/Writing for an Audience.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing for an Audience"
-            }
-          },
-          {
-            "id": "7ae7a01c7c78d848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Model Building (9).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Model Building (9)"
-            }
-          },
-          {
-            "id": "e6f097e27ad6e283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professional Communication/Technical Proposal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Technical Proposal"
-            }
-          },
-          {
-            "id": "b3e1210eac02f838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Multiple Diagnostics (10).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiple Diagnostics (10)"
-            }
-          },
-          {
-            "id": "0523218b4503149c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Regression Analysis/Additional Remedial Measures (11).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Additional Remedial Measures (11)"
-            }
-          },
-          {
-            "id": "d665764d808ea75d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240828131916.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240828131916"
-            }
-          },
-          {
-            "id": "b80f6a82ca454a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced DSA/Defining Complexities.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Defining Complexities"
-            }
-          },
-          {
-            "id": "6a00e522e8c96226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "HW1"
             }
           }
         ],
-        "currentTab": 36
-      },
-      {
-        "id": "ecb19f1d94be3b80",
-        "type": "tabs",
-        "dimension": 34.80096501809409,
-        "children": [
-          {
-            "id": "598f964f9cba2afa",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Databases/Untitled.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "line:(Previous lecture)",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3881205
-                      }
-                    },
-                    {
-                      "query": "line:(Extension)",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2134655
-                      }
-                    },
-                    {
-                      "query": "line:(Example)",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2134655
-                      }
-                    },
-                    {
-                      "query": "file:(ORG-D)",
-                      "color": {
-                        "a": 1,
-                        "rgb": 2134655
-                      }
-                    },
-                    {
-                      "query": "path:/",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6663230
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -1.5,
-                  "nodeSizeMultiplier": 1.50364583333333,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 9.94791666666667,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3696937068519158,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -723,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Untitled.md",
+                "file": "Operating Systems/Computer Hardware Fundamentals (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -733,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Computer Hardware Fundamentals (1)"
             }
           },
           {
@@ -806,16 +218,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8800e7a5925b761",
+  "active": "97ea29c9e810e749",
   "lastOpenFiles": [
-    "Advanced DSA/Defining Complexities.md",
-    "Databases/Untitled.md",
-    "Databases",
-    "Images/Pasted image 20240828131916.png",
-    "Advanced DSA",
-    "Regression Analysis/Model Building (9).md",
+    "Advanced DSA/Tournament Trees (3).md",
+    "Advanced DSA/External Sorting (2).md",
+    "Intro to Probability/Set Theory (1).md",
+    "Intro to Probability/HW1.md",
+    "Databases/Introduction (1).md",
+    "Advanced DSA/Defining Complexities (1).md",
+    "Operating Systems/Interrupts (4).md",
+    "Operating Systems/Named Calls (3).md",
+    "Pasted image 20250123181928.png",
+    "Operating Systems/Computer Hardware Fundamentals (1).md",
+    "Pasted image 20250121180115.png",
+    "Operating Systems/Introduction to Operating Systems (2).md",
+    "Images/Pasted image 20250116174005.png",
+    "Operating Systems",
+    "Regression Analysis/Simple Linear Regression (1).md",
+    "Programming Language Concepts/Testing (3).md",
+    "Programming Language Concepts/Overview.md",
     "Regression Analysis/Multiple Diagnostics (10).md",
     "Regression Analysis/Additional Remedial Measures (11).md",
+    "Images/Pasted image 20240828131916.png",
+    "Images/Pasted image 20250115091433.png",
+    "Intro to Probability",
+    "Databases",
+    "Advanced DSA",
+    "Regression Analysis/Model Building (9).md",
     "Regression Analysis/Logistic Regression (12).md",
     "Regression Analysis/Multiple Linear Regression II (7).md",
     "Regression Analysis/Polynomial Models and Qualitative Predictors (8).md",
@@ -826,34 +255,17 @@
     "Professional Communication/Technical Proposal.md",
     "Professional Communication/Research.md",
     "Professional Communication/Writing for an Audience.md",
-    "Professional Communication/The Resume.md",
     "Images/Pasted image 20241122131104.png",
     "Regression Analysis/Pasted image 20240828131558.png",
-    "Intro to Competitive Programming/Majority Element.md",
-    "Intro to Competitive Programming/Longest Palindromic Substring.md",
-    "Intro to Competitive Programming/Longest Common Subsequence.md",
-    "Intro to Competitive Programming/Longest Increasing Subsequence.md",
-    "Intro to Competitive Programming/Graphs A (15).md",
-    "Intro to Competitive Programming/Maze Problem.md",
-    "Intro to Competitive Programming/Midterm Review (14).md",
-    "Intro to Competitive Programming/Graphs C (17).md",
-    "Programming Language Concepts/Regular Expressions (2).md",
-    "Programming Language Concepts/Parsing (6).md",
     "Images/Pasted image 20241108125928.png",
     "Images/Pasted image 20241108125844.png",
     "Images/Pasted image 20241108125727.png",
-    "Images/Pasted image 20241106132355.png",
-    "Images/Pasted image 20241106132353.png",
-    "Images/Pasted image 20241106131513.png",
-    "Images/Pasted image 20241104133814.png",
     "Professional Communication",
     "Physics 2",
     "Programming Language Concepts",
     "Regression Analysis",
     "Untitled.canvas",
     "Algo/~$aphs (AAD-6).odt",
-    "Algo/Graphs (AAD-6).odt",
-    "Algo/Graphs (AAD-6).tex",
-    "Comp Org/~$mputer Performance (ORG-1).docx"
+    "Algo/Graphs (AAD-6).odt"
   ]
 }
